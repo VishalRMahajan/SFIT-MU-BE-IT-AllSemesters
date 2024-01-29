@@ -3,8 +3,6 @@
 EXP1= ["Vishal","Rajesh"]
 print("Original List is",EXP1)
 
-
-
 #Built-in Functions on List
 #1. Append() : Use to Add elements to the end of List
 EXP1.append("Mahajan")
@@ -14,9 +12,7 @@ print("1. Appended List is",EXP1)
 CopyEXP1 = EXP1.copy()
 print("2. Copyed List is  ",CopyEXP1)
 
-#3. Extend() :Add the elements of a list (or any iterable)
-#to the end of the current list
-
+#3. Extend() :Add the elements of a list (or any iterable) to the end of the current list
 Extended_List=["SE","IT","A"]
 EXP1.extend(Extended_List)
 print("3. Extended List is",EXP1)
