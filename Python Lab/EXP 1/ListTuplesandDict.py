@@ -1,5 +1,4 @@
 #List
-
 list1=[1,2,3,4,5]
 print("The List is", list1)
 print("Index wise value i.e.0,1,2,3,4 as index")
