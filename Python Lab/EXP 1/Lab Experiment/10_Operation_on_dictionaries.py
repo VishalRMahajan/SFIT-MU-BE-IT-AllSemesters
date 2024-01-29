@@ -21,16 +21,11 @@ type1["Age"]=20
 print("The updated Dicitonary is ",type1)
 
 
-#Printing all keys
-for keys in type1:
-    print(keys)
 
-#Printing all values of keys
-for values in type1:
-    print(type1[values])
 
 
 #Operations on Dictionaries
+print("\nOperations on Dictionaries")
 EXP1={"Name":"Vishal","Surname":"Mahajan","Age":18,"Roll No":63,"Branch":"IT A3"}
 
 #1. Update() : Updates the dictionary with the specified key-value pairs
@@ -68,5 +63,3 @@ print("9. After Setting Default Age, EXP1 is ",EXP1)
 #10. Clear() : Removes all the elements from the dictionary
 EXP1.clear()
 print("10. After Clearing EXP1, EXP1 is ",EXP1)
-
-
