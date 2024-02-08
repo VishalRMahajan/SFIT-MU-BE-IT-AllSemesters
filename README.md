@@ -1,6 +1,6 @@
-# Semester 4 Lab Codes and Outputs
+# Semester 4 Labs
 
-Welcome to the Semester 4 lab repository for the Information Technology Engineering program at St. Francis Institute of Technology, affiliated with Mumbai University. This repository contains the In-lab and Post Exp codes and outputs for various subjects including Python, Unix (OS), and Microprocessor Lab.
+Welcome to the Semester 4 repository for the Information Technology Engineering program at St. Francis Institute of Technology, affiliated with Mumbai University. This repository contains the In-lab and Post Exp codes and outputs for various subjects including Python, Unix (OS), and Microprocessor Lab.
 
 ## Subjects Covered:
 1. **Python Lab:** 
