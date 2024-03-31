@@ -2,7 +2,7 @@
 
 # Using Lambda
 #Lambda is a small anonymous function. It can take any number of arguments, but can only have one expression.
-print("Using Lambda")
+print("\nUsing Lambda")
 f=lambda x:x*x
 print(f(5))
 
