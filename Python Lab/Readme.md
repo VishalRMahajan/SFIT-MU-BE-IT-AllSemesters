@@ -1,8 +1,21 @@
 # Python Lab Experiments
 
-### Experiment 1 : Python Data Types [PDF](https://github.com/VishalRMahajan/SE-IT-SEM-4/blob/main/Python%20Lab/EXP1/Python%20EXP1%20Manual%2CCode%20and%20Output.pdf)
-### Experiment 2 : Python Math,String Functions and Operators [PDF](https://github.com/VishalRMahajan/SE-IT-SEM-4/blob/main/Python%20Lab/EXP2/Python%20EXP2%20Manual%2CCode%20and%20Output.pdf)
-### Experiment 3 : Python Conditional Statement [PDF](https://github.com/VishalRMahajan/SE-IT-SEM-4/blob/main/Python%20Lab/EXP3/Python%20EXP3%20Manual%2CCode%20and%20Output.pdf)
+### Experiment 1  : Python Data Types
+### Experiment 2  : Python Math,String Functions and Operators 
+### Experiment 3  : Python Conditional Statement 
+### Experiment 4  : Loop Statements
+### Experiment 5  : Array Implementation
+### Experiment 6  : Function and Exception Handling
+### Experiment 7  : Classes and Constructor
+### Experiment 8  : Inheritance
+### Experiment 9  : Polymorphism
+### Experiment 10 : Modules and Packages
+### Experiment 11 : File Handling
+### Experiment 12 : Tkinter and Sqlite Connectivity
+### Experiment 13 : Data Visualization
+### Experiment 14 : Socket Programming
+### Experiment 15 : Rest API using Flask
+
 
 
 ## Directory Structure:
@@ -13,4 +26,4 @@
     
   - **Post Experiment/**
     - Contains programs assigned as post-lab exercises.
-
+- **PDF of All the experiment with manual,code and their respective output**
