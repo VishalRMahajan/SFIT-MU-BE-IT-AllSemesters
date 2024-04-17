@@ -1,23 +1,24 @@
-# All Semester Labs
+# 🎓 All Semester Labs Repository
 
-Welcome to the All Semester labs repository for the Information Technology Engineering program at St. Francis Institute of Technology, affiliated with Mumbai University.
+Welcome to the All Semester Labs repository for the Information Technology Engineering program at St. Francis Institute of Technology, affiliated with Mumbai University. 🚀
 
-## Subjects Covered:
+## 📚 Subjects Covered:
 
-- Semester 3:
-  - Data Structure and Analysis
-  - SQL
-  - Java
+### Semester 3:
+- **Data Structure and Analysis**
+- **SQL**
+- **Java**
 
-     
-- Semester 4:
-  - Python
-  - Microprocessor
-  - Unix
-  - Network
- 
-## Directory Structure:
+### Semester 4:
+- **Python**
+- **Microprocessor**
+- **Unix**
+- **Network**
+
+## 📂 Directory Structure:
 - **Semester/**
-  - Each semester folder has its own README file with its unique directory structure and Other details.
+  - Each semester folder contains its unique README file with detailed information and directory structure.
 
-Hey there! Just a **heads-up**, this repository is here to help you get a better grasp of the course content. But remember, it's super important to use these resources responsibly and play fair. Using them for anything shady like cheating, plagiarism or copying isn't cool and goes against the whole learning vibe we've got going on. So, let's keep it honest and rock those studies together!
+---
+
+👋 **Hey there! Just a friendly reminder:** This repository is designed to assist us in gaining a better understanding of the course content. However, let's always remember to use these resources responsibly and with integrity. Engaging in dishonest practices like plagiarism, or copying undermines the essence of learning. So, let's uphold honesty and integrity as we embark on our academic journey together! 💡
