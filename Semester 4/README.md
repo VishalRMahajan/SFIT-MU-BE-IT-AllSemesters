@@ -1,6 +1,6 @@
 # Semester 4 Labs
 
-Welcome to the Semester 4 repository for the Information Technology Engineering program at St. Francis Institute of Technology, affiliated with Mumbai University. This repository contains the In-lab and Post Exp codes and outputs for various subjects including Python, Unix (OS), and Microprocessor Lab.
+Welcome to the Semester 4 directory for the Information Technology Engineering program at St. Francis Institute of Technology, affiliated with Mumbai University. This direcctory contains the In-lab and Post Exp codes and outputs for various subjects including Python, Network, Unix (OS), and Microprocessor Lab.
 
 ## Subjects Covered:
 1. **Python Lab:** 
@@ -14,6 +14,7 @@ Welcome to the Semester 4 repository for the Information Technology Engineering 
      - Exploring modules, packages, multithreading, and exception handling.
      - File handling operations, GUI programming, and database programming.
      - Data visualization, analysis, and web programming using Python libraries like Matplotlib, Pandas, and Flask.
+     - REST API using Flask
 
 2. **Unix (OS) Lab:**
    - This lab focuses on Unix operating system concepts, including:
@@ -29,7 +30,6 @@ Welcome to the Semester 4 repository for the Information Technology Engineering 
      - Programming in 8086 assembly language for arithmetic and logical operations, including 16-bit BCD addition, logical expressions, and conversions.
      - Loop operations in 8086 assembly language for tasks like moving data between memory blocks, counting 1s and 0s, finding even and odd numbers, and searching for a given number.
      - String manipulation and procedure programming in 8086 assembly language for tasks like checking for palindromes, computing factorials, and generating Fibonacci numbers.
-     - Interfacing with the 8086 microprocessor for tasks like interfacing with a seven-segment display, keyboard matrix, or digital-to-analog converter (DAC).
 
 ## Directory Structure:
 - **Python Lab/**
@@ -38,7 +38,9 @@ Welcome to the Semester 4 repository for the Information Technology Engineering 
   - Includes Unix lab manual and corresponding output files.
 - **Microprocessor Lab/**
   - Contains Microprocessor lab manual and output files.
+- **Network Lab/**
+  - Contains Network lab manual and output files.
 
-Hey there! Just a **heads-up**, this repository is here to help you get a better grasp of the course content. But remember, it's super important to use these resources responsibly and play fair. Using them for anything shady like cheating or copying isn't cool and goes against the whole learning vibe we've got going on. So, let's keep it honest and rock those studies together!
+Hey there! Just a **heads-up**, this repository is here to help  get a better grasp of the course content. But remember, it's super important to use these resources responsibly and play fair. Using them for anything shady like cheating, plagiarism or copying isn't cool and goes against the whole learning vibe we've got going on. So, let's keep it honest and rock those studies together!
 
 
