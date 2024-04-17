@@ -1,0 +1,48 @@
+System.out.print(i); prints i of which datatype it is
+System.out.println(i); prints i of which datatype it is and then print next line
+
+----------------------------------------------------------------------------------------
+import java.util.Scanner; 
+
+Inside class or Function//
+
+Scanner sc= New Scanner(System.in);
+int varialename = sc.nextInt();
+String variablename = sc.next();
+-----------------------------------------------------------------------------------------
+
+String word;
+
+//for lowercase
+word.toLowerCase();
+
+//for ith letter in a String
+char ch= word.charAt(i);
+
+//length
+int length=word.length();
+
+----------------------------------------------------------------------------------------
+Math.PI store pie value
+
+int[] ar= new int[size];  //declearing array and then using size to allocate it a memory
+
+method overloading means method with same name with different number of parameters
+
+constuctor is a method with the same name as class which when object is created will execute it self without
+the method being called
+
+Constructor chaining is the process of calling one constructor from another within the same class.
+
+Vector<String> vector = new Vector<>(); vector declearing
+        vector.add("Element 1");
+
+        System.out.println("Vector Elements: " + vector);
+
+        System.out.println("Vector Size: " + vector.size());
+
+        System.out.println("Is Vector Empty? " + vector.isEmpty());
+
+        System.out.println("Element at index 1: " + vector.get(1));
+    
+
