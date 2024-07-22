@@ -15,6 +15,12 @@ Welcome to the All Semester Labs repository for the Information Technology Engin
 - **Unix**
 - **Network**
 
+### Semester 5:
+- **Internet Programming Lab**
+- **Security Lab**
+- **DevOps Lab**
+- **Advance Devops Lab**
+
 ## 📂 Directory Structure:
 - **Semester/**
   - Each semester folder contains its unique README file with detailed information and directory structure.
