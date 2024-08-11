@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Experiment 3</title>
+    <link rel="stylesheet" href="EXP3.css">
+    <script>
+      function validateForm(){
+        let first=document.forms["myform"]["fname"].value
+        if(first == ""){
+          alert("Enter your First Name");
+          return false;
+        }
+
+        let last=document.forms["myform"]["lname"].value
+        if(last == ""){
+          alert("Enter your Last Name");
+          return false;
+        }
+        
+        let mail = document.forms["myform"]["email"].value
+        var validRegex = /^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/;
+        if(!validRegex.test(mail))
+        {
+          alert("Email is Invalid")
+          return false;
+        }
+        
+
+        let pass = document.forms["myform"]["pass"].value
+        let cpass = document.forms["myform"]["cpass"].value
+        if(pass.length < 8){
+          alert("Password Should be atleast of 8 character");
+          return false;
+        }
+        if(pass != cpass)
+        {
+          alert("Password Does not match");
+          return false;
+        }
+        
+      }
+    </script>
+  </head>
+  <body>
+    <div>
+      <header class="header-style">
+        
+        <h2 style="margin-bottom: 0;">St Francis Institute of Technology</h2>
+        <h4 style="margin-top: 0;">
+            <address>Mount Poisur, Borivali(W), Mumbai 400103s</br>
+                Phone No: 022-28908585 Email: sfedu@sfit.ac.in Website: www.sfit.ac.in
+            </address>
+        </h4>
+      </header>
+      <section class="form">
+        <form class="form-items" name="myform" action="" onsubmit="return validateForm()" method = "post">
+            <p>
+                Name:
+                <input type="text" id="fname" name="fname" placeholder="First Name">
+                <input type="text" id="lname" name="lname" placeholder="Last Name">
+            </p>
+            <p>
+              Email ID: <input type="text" id="email" name="email" placeholder="Email" >
+            </p>
+            <p>
+              Enter Password:
+              <input type="password" id="pass" name="pass" placeholder="Password"/>
+          </p>
+          <p>
+            Confirm Password:
+            <input type="password" id="cpass" name="cpass" placeholder="Confirm Password"/>
+        </p>
+          <p>
+            <input type="submit" value="Submit">
+          </p>
+      </form>
+    </section>
+  </div>
+</body>
+</html>
