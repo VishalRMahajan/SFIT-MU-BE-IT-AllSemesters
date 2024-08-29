@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Holder Details</title>
+</head>
+<body>
+    <script>
+        class AccHolder {
+            constructor(accnum, name, age, balance) {
+                this.accnum = accnum;
+                this.name = name;
+                this.age = age;
+                this.balance = balance;
+            }
+            
+            display() {
+                document.write(`Account Number: ${this.accnum}<br>`);
+                document.write(`Name: ${this.name}<br>`);
+                document.write(`Age: ${this.age}<br>`);
+                document.write(`Balance: ${this.balance}<br><br>`);
+            }
+        }
+
+        let accHolder1 = new AccHolder("1", "Vishal Mahajan", 20, 1000.0);
+        let accHolder2 = new AccHolder("2", "Shubham Malekar", 21, 2500.0);
+
+        accHolder1.display();
+        accHolder2.display();
+    </script>
+</body>
+</html>

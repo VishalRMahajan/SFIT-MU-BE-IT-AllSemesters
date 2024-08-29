@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vishal Mahajan</title>
+</head>
+<body>
+    <h1>EXP 04 Q5 factorial</h1>
+    <h2 id="display"></h2>
+    <script>
+        let number = parseFloat(prompt("Enter a number:"));
+        const factorial = (num) => {
+            if (num === 0) {
+                return 1;
+            }
+            return num * factorial(num - 1);
+        }
+        const fact = factorial(number);
+        document.getElementById("display").innerText = `Factorial of ${number} is ${fact}`;
+    </script>
+</body>
+</html>

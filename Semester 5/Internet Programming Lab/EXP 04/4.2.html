@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vishal Mahajan</title>
+</head>
+<body>
+    <h1>EXP 04 Q2</h1>
+    <h2 id="display"></h2>
+    <script>
+        let len = prompt("Enter length of a triangle:");
+        let base = prompt("Enter base of a triangle:");
+        const area = (len,base) => {
+            document.getElementById("display").innerHTML = "Area of triangle is " + (0.5 * len * base);
+        }
+        area(len,base);
+    </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vishal Mahajan</title>
+</head>
+<body>
+    <h1>EXP 04 Q3 odd or even</h1>
+    <h2 id="display"></h2>
+    <script>
+        (() => {
+            let number = prompt("Enter a number:");
+            document.getElementById("display").innerHTML = `${number} is ${number % 2 === 0 ? "even" : "odd"}`;
+        })();
+    </script>
+</body>
+</html>

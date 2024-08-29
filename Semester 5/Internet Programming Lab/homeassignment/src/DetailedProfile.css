@@ -1,0 +1,49 @@
+.DetailedBackground {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .DetailedProfile-card {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 600px;
+    text-align: center;
+  }
+  
+  .Banner img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .Profile-image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: -75px;
+    border: 5px solid white;
+  }
+  
+  .Profile-details {
+    padding: 20px;
+  }
+  
+  .Profile-details h2 {
+    margin: 0;
+    font-size: 24px;
+  }
+  
+  .Profile-details h4 {
+    margin: 10px 0;
+    font-size: 18px;
+    color: #666;
+  }
+  
+  .Profile-details p {
+    font-size: 14px;
+    color: #777;
+  }

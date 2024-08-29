@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Area Calculator</title>
+</head>
+<body>
+    <h2 id="display"></h2>
+    <script>
+        class Calculator {
+            constructor(length, width) {
+                this.length = length;
+                this.width = width;
+            }
+        }
+
+        class RectArea extends Calculator {
+            constructor(length, width) {
+                super(length, width);
+            }
+
+            displayRectArea() {
+                const area = this.length * this.width;
+                document.getElementById("display").innerHTML += `Rectangle Area: ${area}<br>`;
+            }
+        }
+
+        class CircleArea extends RectArea {
+            constructor(length, width, radius) {
+                super(length, width); 
+                this.radius = radius;
+            }
+
+            displayCircleArea() {
+                const area = Math.PI * Math.pow(this.radius, 2);
+                document.getElementById("display").innerHTML += `Circle Area: ${area.toFixed(2)}<br>`;
+            }
+        }
+
+        
+        let length = parseFloat(prompt("Enter the length of the rectangle:"));
+        let width = parseFloat(prompt("Enter the width of the rectangle:"));
+        let rect = new RectArea(length, width);
+        rect.displayRectArea();
+
+        let radius = parseFloat(prompt("Enter the radius of the circle:"));
+        let circle = new CircleArea(0, 0, radius);
+        circle.displayCircleArea();
+    </script>
+</body>
+</html>
