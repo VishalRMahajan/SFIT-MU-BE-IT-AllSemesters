@@ -1,79 +1,82 @@
-.Background {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f0f0f0;
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+* {
+  box-sizing: border-box;
 }
 
-.Profile-card {
-    background: white;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    width: 300px;
-    text-align: center;
-    padding: 20px;
+body {
+  background-color: #28223F;
+  font-family: Montserrat, sans-serif;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  min-height: 100vh;
+  margin: 0;
 }
 
-.Profile-image {
-    width: 100px; /* Set a fixed width for the circular image */
-    height: 100px; /* Set a fixed height for the circular image */
-    border-radius: 50%; /* Make the image container circular */
-    overflow: hidden;
-    margin: 0 auto; /* Center the image horizontally */
-    border: 3px solid white; /* Optional: Add a border to the image */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Add a shadow to the image */
-    display: flex;
-    justify-content: center;
-    align-items: center;
+h3 {
+  margin: 10px 0;
+  color: #fff;
 }
 
-.Profile-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Ensure the image covers the container without distortion */
-    display: block;
-    border-radius: 50%; /* Make the image itself circular */
+h6 {
+  margin: 5px 0;
+  text-transform: uppercase;
+  color: #00C9A7; 
 }
 
-.Profile-details {
-    padding: 20px;
-}
-
-.Profile-details h2 {
-    margin: 0;
-    font-size: 24px;
-}
-
-.Profile-details h4 {
-    margin: 10px 0;
-    font-size: 18px;
-    color: #666;
-}
-
-.Profile-details p {
-    font-size: 14px;
-    color: #777;
-}
-
-.Profile-button {
-    background-image: linear-gradient(to right, #4CB8C4 0%, #3CD3AD 51%, #4CB8C4 100%);
-    margin: 10px auto;
-    padding: 15px 45px;
-    text-align: center;
+h4 {
+    margin: 5px 0;
     text-transform: uppercase;
-    transition: 0.5s;
-    background-size: 200% auto;
-    color: white;
-    box-shadow: 0 0 20px #eee;
-    border-radius: 50px;
-    display: block;
-    width: fit-content;
+    color: #00C9A7; 
 }
 
-.Profile-button:hover {
-    background-position: right center;
-    color: #fff;
-    text-decoration: none;
+p {
+  font-size: 14px;
+  line-height: 21px;
+  color: #fff;
+}
+
+.card-container {
+  background-color: #231E39;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 300px;
+  text-align: center;
+  padding: 20px;
+  position: relative;
+}
+
+.round {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin: 20px 0;
+  object-fit: cover;
+  border: 2px solid #fff;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.primary {
+  background: #00C9A7;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.primary:hover {
+  background: #00c9a752;
 }
