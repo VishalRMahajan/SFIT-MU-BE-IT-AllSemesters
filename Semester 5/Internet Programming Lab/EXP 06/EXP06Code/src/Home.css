@@ -1,0 +1,19 @@
+.Home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: white;
+}
+
+th, td {
+    padding: 5px 10px 15px 20px; 
+}
+
+
