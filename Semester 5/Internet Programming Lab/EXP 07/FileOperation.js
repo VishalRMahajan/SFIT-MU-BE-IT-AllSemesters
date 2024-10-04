@@ -6,28 +6,27 @@ const prompt = require('prompt-sync')({ sigint: true });
 var ch = parseInt(prompt("Enter the Choice: 1. Read File 2.Append Data 3.Copy File. 4.Rename 5.Delete Enter your Choice:   "));
 switch (ch) {
     case 1:
-        console.log("\n")
-        ReadFile("sample.txt")
+        ReadFile("Data/sample.txt")
         break;
 
     case 2:
         console.log("\n")
-        AppendData("sample.txt")
+        AppendData("Data/sample.txt")
         break;
 
     case 3:
         console.log("\n")
-        CopyFile("sample.txt", "sample2.txt")
+        CopyFile("Data/sample.txt", "Data/sample2.txt")
         break;
 
     case 4:
         console.log("\n")
-        Rename("sample2.txt", "renamedsample2.txt");
+        Rename("Data/sample2.txt", "Data/Renamedsample2.txt");
         break;
 
     case 5:
         console.log("\n")
-        Delete("renamedsample2.txt");
+        Delete("Data/Renamedsample2.txt");
         break;
 
     default:
@@ -52,7 +51,7 @@ function ReadFile(filename) {
 
 function AppendData(filename) {
     var appenddata = prompt("Enter the Data to be appended: ")
-    fs.appendFile(filename, 'n' + appenddata, (err, data) => {
+    fs.appendFile(filename, '\n' + appenddata, (err, data) => {
         if (err) {
             console.log(err);
         }
