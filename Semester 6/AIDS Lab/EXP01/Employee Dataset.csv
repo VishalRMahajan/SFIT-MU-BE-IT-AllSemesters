@@ -1,0 +1,1001 @@
+﻿First Name,Gender,Start Date,Last Login Time,Salary,Bonus %,Senior Management,Team
+Douglas,Male,08-06-1993,12:42 PM,97308,6.945,TRUE,Marketing
+Thomas,Male,3-31-1996,6:53 AM,61933,4.17,TRUE,
+Maria,Female,4-23-1993,11:17 AM,130590,11.858,FALSE,Finance
+Jerry,Male,03-04-2005,1:00 PM,138705,9.34,TRUE,Finance
+Larry,Male,1-24-1998,4:47 PM,101004,1.389,TRUE,
+Dennis,Male,4-18-1987,1:35 AM,115163,10.125,FALSE,
+Ruby,Female,8-17-1987,4:20 PM,65476,10.012,TRUE,0
+,Female,7-20-2015,10:43 AM,45906,11.598,,0
+Angela,Female,11-22-2005,,95570,18.523,TRUE,Engineering
+Frances,Female,08-08-2002,6:51 AM,139852,7.524,TRUE,Business Development
+Louise,Female,08-12-1980,9:01 AM,63241,15.132,TRUE,
+Julie,Female,10-26-1997,3:19 PM,102508,12.637,TRUE,Legal
+Brandon,Male,12-01-1980,1:08 AM,112807,17.492,TRUE,Human Resources
+Gary,Male,1-27-2008,,109831,5.831,FALSE,
+Kimberly,Female,1-14-1999,7:13 AM,41426,14.543,TRUE,Finance
+Lillian,Female,06-05-2016,6:09 AM,59414,1.256,FALSE,Product
+Jeremy,Male,9-21-2010,5:56 AM,90370,7.369,FALSE,
+Shawn,Male,12-07-1986,7:45 PM,111737,6.414,FALSE,Product
+Diana,Female,10-23-1981,10:27 AM,132940,,FALSE,Client Services
+Donna,Female,7-22-2010,3:48 AM,81014,1.894,FALSE,Product
+Lois,,4-22-1995,7:18 PM,64714,4.934,TRUE,Legal
+Matthew,Male,09-05-1995,2:12 AM,100612,13.645,FALSE,Marketing
+Joshua,,03-08-2012,1:58 AM,90816,18.816,TRUE,Client Services
+,Male,6-14-2012,4:19 PM,125792,5.042,,
+John,Male,07-01-1992,10:08 PM,97950,13.873,FALSE,Client Services
+,Male,10-08-2012,1:12 AM,37076,18.576,,Client Services
+Craig,Male,2-27-2000,7:45 AM,37598,7.757,TRUE,Marketing
+Scott,,07-11-1991,6:58 PM,122367,5.218,FALSE,Legal
+Terry,Male,11-27-1981,6:30 PM,124008,13.464,TRUE,Client Services
+Benjamin,Male,1-26-2005,10:06 PM,79529,7.008,TRUE,Legal
+Christina,Female,08-06-2002,1:19 PM,118780,9.096,TRUE,Engineering
+Joyce,,2-20-2005,2:40 PM,88657,12.752,FALSE,Product
+,Male,8-21-1998,2:27 PM,122340,6.417,,
+Jean,Female,12-18-1993,9:07 AM,119082,16.18,FALSE,Business Development
+Jerry,Male,01-10-2004,12:56 PM,95734,19.096,FALSE,Client Services
+Theresa,Female,10-10-2006,1:12 AM,85182,16.675,FALSE,Sales
+Rachel,Female,2-16-2009,8:47 PM,142032,12.599,FALSE,Business Development
+Linda,Female,10-19-1981,8:49 PM,57427,9.557,TRUE,Client Services
+Stephanie,Female,9-13-1986,1:52 AM,36844,5.574,TRUE,Business Development
+,Male,1-29-2016,2:33 AM,122173,7.797,,Client Services
+Michael,Male,10-10-2008,11:25 AM,99283,2.665,TRUE,Distribution
+Christine,,6-28-2015,1:08 AM,66582,11.308,TRUE,Business Development
+Beverly,Female,09-09-1998,8:26 PM,121918,15.835,FALSE,Legal
+Marilyn,Female,12-07-1980,3:16 AM,73524,5.207,TRUE,Marketing
+Cynthia,Female,11-16-1988,6:54 PM,145146,7.482,TRUE,Product
+Roger,Male,4-17-1980,11:32 AM,88010,13.886,TRUE,Sales
+Bruce,Male,11-28-2009,10:47 PM,114796,6.796,FALSE,Finance
+Kathy,Female,6-22-2005,4:51 AM,66820,9,TRUE,Client Services
+Clarence,Male,3-26-1996,5:57 AM,93581,6.083,TRUE,Business Development
+Chris,,1-24-1980,12:13 PM,113590,3.055,FALSE,Sales
+Nancy,Female,9-23-2000,8:05 AM,94976,13.83,TRUE,Engineering
+,,12-17-2011,8:29 AM,41126,14.009,,Sales
+Todd,Male,2-18-1990,2:41 AM,49339,1.695,TRUE,Human Resources
+Alan,,03-03-2014,1:28 PM,40341,17.578,TRUE,Finance
+Sara,Female,8-15-2007,9:23 AM,83677,8.999,FALSE,Engineering
+Karen,Female,11-30-1999,7:46 AM,102488,17.653,TRUE,Product
+Carl,Male,05-03-2006,5:55 PM,130276,16.084,TRUE,Finance
+Henry,Male,6-26-1996,1:44 AM,64715,15.107,TRUE,Human Resources
+Theresa,Female,04-11-2010,7:18 AM,72670,1.481,TRUE,Engineering
+Irene,Female,05-07-1997,9:32 AM,66851,11.279,FALSE,Engineering
+Paula,,11-23-2005,2:01 PM,48866,4.271,FALSE,Distribution
+Denise,Female,11-06-2001,12:03 PM,106862,3.699,FALSE,Business Development
+,Female,06-12-2007,5:25 PM,58112,19.414,,Marketing
+Matthew,Male,01-02-2013,10:33 PM,35203,18.04,FALSE,Human Resources
+Kathleen,,04-11-1990,6:46 PM,77834,18.771,FALSE,Business Development
+Steve,Male,11-11-2009,11:44 PM,61310,12.428,TRUE,Distribution
+Nancy,Female,12-15-2012,11:57 PM,125250,2.672,TRUE,Business Development
+Rachel,Female,8-16-1999,6:53 AM,51178,9.735,TRUE,Finance
+Jose,Male,10-30-2004,1:39 PM,84834,14.33,TRUE,Finance
+Irene,,7-14-2015,4:31 PM,100863,4.382,TRUE,Finance
+Todd,,06-10-2003,2:26 PM,84692,6.617,FALSE,Client Services
+Johnny,Male,11-06-2009,4:23 PM,118172,16.194,TRUE,Sales
+Bobby,Male,05-07-2007,10:01 AM,54043,3.833,FALSE,Product
+Frances,Female,04-04-1999,4:19 PM,90582,4.709,TRUE,Sales
+Thomas,Male,06-04-1995,2:24 PM,62096,17.029,FALSE,Marketing
+Bonnie,Female,07-02-1991,1:27 AM,104897,5.118,TRUE,Human Resources
+Margaret,Female,09-10-1988,12:42 PM,131604,7.353,TRUE,Distribution
+Charles,Male,9-14-2004,8:13 PM,107391,1.26,TRUE,Marketing
+Robin,Female,06-04-1983,3:15 PM,114797,5.965,TRUE,Sales
+Bonnie,Female,11-13-1988,3:30 PM,115814,4.99,FALSE,Product
+Gerald,,3-17-1995,12:50 AM,137126,15.602,TRUE,Sales
+Christopher,Male,3-30-2008,10:52 AM,47369,14.822,FALSE,Legal
+Steven,Male,3-30-1980,9:20 PM,35095,8.379,TRUE,Client Services
+Shawn,Male,9-23-2005,2:55 AM,148115,6.539,TRUE,Finance
+Doris,Female,8-20-2004,5:51 AM,83072,7.511,FALSE,Finance
+Jeremy,Male,02-01-2008,8:50 AM,100238,3.887,TRUE,Client Services
+Annie,,9-29-2007,12:11 AM,103495,17.29,TRUE,Business Development
+Annie,Female,1-30-1993,2:05 AM,144887,8.276,TRUE,Sales
+Donna,Female,11-27-1991,1:59 PM,64088,6.155,TRUE,Legal
+Janice,Female,03-12-2016,12:40 AM,51082,11.955,FALSE,Legal
+Janice,,8-21-1997,5:12 AM,91719,11.583,TRUE,Legal
+James,,1-26-2005,11:00 PM,128771,8.309,FALSE,
+Linda,Female,5-25-2000,5:45 PM,119009,12.506,TRUE,Business Development
+Virginia,,05-07-1994,5:58 PM,111858,1.601,TRUE,Legal
+Harry,Male,8-26-1981,3:16 PM,130620,7.03,FALSE,Legal
+Heather,Female,07-11-1998,2:17 PM,43026,14.166,FALSE,Client Services
+Cynthia,Female,3-21-1994,8:34 AM,142321,1.737,FALSE,Finance
+Laura,,7-19-2014,9:23 PM,140371,10.62,TRUE,Marketing
+Tina,Female,6-16-2016,7:47 PM,100705,16.961,TRUE,Marketing
+Harold,Male,01-02-1985,9:40 PM,77544,12.447,FALSE,Business Development
+Melissa,Female,6-21-2005,6:33 AM,48109,14.995,FALSE,Finance
+Aaron,Male,2-17-2012,10:20 AM,61602,11.849,TRUE,Marketing
+Jack,Male,01-12-1997,5:51 AM,103902,12.159,FALSE,Client Services
+Phyllis,Female,10-11-1996,9:30 PM,136984,8.932,TRUE,Finance
+John,Male,12-23-1989,7:01 AM,80740,19.305,FALSE,Marketing
+Kathy,Female,03-09-1996,4:33 AM,91712,8.567,FALSE,Finance
+Paul,Male,08-04-1993,7:25 PM,42146,3.046,FALSE,Legal
+Steven,Male,4-23-2013,10:12 PM,68680,16.565,FALSE,Legal
+Russell,,05-05-1988,7:57 AM,133980,12.396,TRUE,Legal
+Christopher,Male,4-22-2000,10:15 AM,37919,11.449,FALSE,
+Shirley,Female,6-20-2001,10:39 PM,147113,16.135,FALSE,Legal
+Bonnie,Female,12-17-1999,3:12 PM,42153,8.454,TRUE,Business Development
+Willie,Male,11-27-2003,6:21 AM,64363,4.023,FALSE,Marketing
+Tina,Female,06-12-2009,7:16 AM,114767,3.711,TRUE,Engineering
+Ashley,Female,08-04-2002,11:00 AM,58698,6.811,TRUE,Business Development
+Pamela,Female,07-01-1982,6:51 AM,54585,4.166,FALSE,Product
+,Male,6-22-1991,8:58 PM,76189,18.988,,Legal
+Steven,Male,03-01-1995,3:03 PM,109095,9.494,FALSE,Finance
+Andrea,Female,01-12-2012,5:43 AM,120204,9.557,FALSE,Business Development
+Paul,Male,06-03-2008,3:05 PM,41054,12.299,FALSE,Marketing
+Peter,Male,11-17-1994,6:15 PM,84885,15.402,FALSE,Business Development
+Kathleen,,05-09-2016,8:55 AM,119735,18.74,FALSE,Product
+Christina,Female,4-13-2012,2:04 PM,110169,13.892,TRUE,Engineering
+Helen,Female,11-29-2001,2:30 AM,73789,14.841,TRUE,Product
+Marilyn,Female,11-16-1983,8:29 AM,76078,2.401,TRUE,Product
+Patricia,Female,09-01-2003,6:46 AM,49368,14.226,FALSE,Human Resources
+Michelle,Female,3-30-1984,6:43 PM,57325,17.179,TRUE,Human Resources
+William,Male,9-29-2002,4:09 PM,66521,5.83,FALSE,Human Resources
+Kenneth,Male,8-25-1987,9:16 PM,127654,16.439,TRUE,Client Services
+Antonio,Male,10-25-1988,1:50 PM,60866,13.101,TRUE,Business Development
+Shirley,Female,05-01-1984,1:15 PM,41334,6.219,TRUE,Human Resources
+Rebecca,Female,07-10-1992,12:23 AM,94231,17.517,FALSE,Product
+Carlos,Male,01-04-1995,7:02 AM,146670,10.763,FALSE,Human Resources
+Lois,Female,12-25-1987,4:16 PM,106317,2.235,TRUE,Client Services
+Carolyn,Female,04-09-2011,5:38 AM,109260,2.65,TRUE,Business Development
+Gloria,Female,6-29-2007,5:34 AM,134148,8.833,TRUE,Legal
+Henry,Male,4-24-1995,4:18 AM,43542,19.687,FALSE,Legal
+Adam,Male,5-21-2011,1:45 AM,95327,15.12,FALSE,Distribution
+Ashley,Female,5-25-2006,11:30 AM,112238,6.03,TRUE,Engineering
+,Female,10-03-1990,1:08 AM,132373,10.527,,
+Shirley,Female,2-28-1981,1:23 PM,113850,1.854,FALSE,Marketing
+Adam,Male,12-24-1990,8:57 PM,110194,14.727,TRUE,Product
+Elizabeth,Female,10-09-2003,5:53 PM,146129,5.687,FALSE,Finance
+Teresa,,1-28-2016,10:55 AM,140013,8.689,TRUE,Engineering
+Nicole,,03-05-1982,2:28 PM,122717,12.452,FALSE,Sales
+Jennifer,Female,04-04-2009,10:47 PM,71715,13.079,TRUE,Client Services
+Patricia,Female,11-25-1992,2:24 AM,95322,4.15,FALSE,Product
+Philip,Male,7-17-2008,1:30 PM,89227,3.996,FALSE,Legal
+Patrick,,7-14-1991,2:24 AM,124488,14.837,TRUE,Sales
+,Female,8-17-2014,2:00 PM,86230,8.578,,Distribution
+Sean,Male,05-04-1996,8:59 PM,135490,19.934,FALSE,Marketing
+Brandon,,11-03-1997,8:17 PM,121333,15.295,FALSE,Business Development
+Ruth,Female,8-19-1999,4:03 AM,129297,8.067,TRUE,Client Services
+Victor,,03-10-2011,8:40 PM,84546,10.489,TRUE,Finance
+Rebecca,Female,11-15-1980,4:13 AM,85730,5.359,TRUE,Product
+Marie,Female,3-16-2003,12:12 AM,104058,17.695,TRUE,Business Development
+Howard,Male,4-27-1992,1:10 AM,105062,1.563,FALSE,Human Resources
+,Female,7-27-2005,8:32 AM,79536,14.443,,Product
+Norma,Female,2-28-1999,8:45 PM,114412,8.756,TRUE,Marketing
+James,,11-22-1983,10:52 PM,68501,14.316,FALSE,Marketing
+Kathy,Female,3-18-2000,7:26 PM,149563,16.991,TRUE,Finance
+Marilyn,,8-22-1999,9:09 AM,103386,11.451,FALSE,Distribution
+Arthur,Male,4-13-1998,11:28 AM,89786,14.422,TRUE,Legal
+Terry,Male,09-03-1990,9:15 PM,52226,19.135,FALSE,Client Services
+Mary,Female,8-13-1999,1:03 AM,134645,18.197,FALSE,Business Development
+,Female,3-23-2014,1:28 PM,59148,9.061,,Legal
+,Female,07-09-1991,6:52 PM,42341,7.014,,Sales
+Christopher,Male,12-24-2011,12:22 PM,142178,17.984,TRUE,Sales
+Peter,,09-03-1987,5:59 PM,38989,7.017,TRUE,Marketing
+Michelle,Female,11-04-1996,9:34 PM,53754,5.455,TRUE,Product
+Irene,Female,1-29-1992,11:36 AM,133772,19.02,TRUE,Sales
+Patrick,Male,8-17-2007,3:16 AM,143499,17.495,TRUE,Engineering
+Sara,Female,9-23-1991,6:17 PM,97058,9.402,FALSE,Finance
+Lillian,Female,12-21-2008,6:51 PM,85446,3.959,TRUE,Engineering
+,,9-18-2007,6:59 PM,40297,6.185,,Client Services
+Willie,Male,2-17-1998,8:20 PM,146651,1.451,TRUE,Engineering
+Victor,Male,01-08-2003,1:02 PM,124486,10.166,FALSE,Product
+Wayne,Male,04-07-2012,8:00 AM,102652,14.085,TRUE,Distribution
+Jane,Female,09-03-1997,2:01 AM,144474,17.648,FALSE,Product
+Jessica,Female,10-23-1995,5:53 AM,68759,19.343,TRUE,Finance
+Mark,Male,04-12-2008,5:40 PM,57286,5.025,TRUE,Business Development
+Randy,Male,11-14-1999,12:12 PM,58129,1.952,TRUE,Distribution
+Lillian,Female,6-19-1999,4:44 PM,123940,12.184,TRUE,Business Development
+Ruth,,5-18-1999,5:56 AM,98233,2.518,TRUE,Distribution
+Jerry,Male,12-18-2003,6:46 AM,140810,9.177,TRUE,Client Services
+Sandra,Female,1-19-1983,7:25 AM,42090,8.842,TRUE,Legal
+,Female,2-23-2005,9:50 PM,149654,1.825,,Sales
+Roger,Male,11-19-2004,3:55 PM,51430,6.46,FALSE,Marketing
+Charles,Male,10-14-2000,9:40 PM,71749,15.931,FALSE,Legal
+Clarence,Male,05-02-1998,3:16 AM,85700,1.215,FALSE,Sales
+Carol,Female,3-19-1996,3:39 AM,57783,9.129,FALSE,Finance
+Lois,Female,10-18-2013,4:51 PM,36946,6.652,FALSE,Engineering
+Barbara,,05-03-2003,7:32 PM,99326,16.475,TRUE,Legal
+Rebecca,Female,2-18-1995,6:50 AM,109259,4.443,TRUE,Legal
+Irene,Female,1-30-2004,8:25 PM,131038,8.996,FALSE,Distribution
+Ronald,Male,4-30-2014,2:19 PM,121068,12.757,TRUE,Product
+Steven,Male,11-10-1985,10:53 AM,62719,19.127,FALSE,Client Services
+Carolyn,Female,11-06-2012,3:51 AM,69268,3.031,FALSE,Client Services
+Maria,Female,12-27-1990,9:57 PM,36067,9.64,TRUE,Product
+Jonathan,Male,7-17-2009,8:15 AM,130581,16.736,TRUE,
+Gary,Male,08-12-1987,12:04 AM,89661,8.525,FALSE,Finance
+Kimberly,Female,7-15-1997,5:57 AM,36643,7.953,FALSE,Marketing
+Roger,Male,11-08-1982,2:32 AM,140558,5.084,TRUE,Sales
+Diana,Female,01-04-2013,7:53 AM,103521,2.784,TRUE,Business Development
+Willie,Male,06-06-2006,9:45 AM,55281,4.935,TRUE,Marketing
+Brandon,Male,3-27-2006,5:54 PM,115711,8.012,TRUE,Finance
+Patricia,Female,12-06-2012,4:01 AM,114079,8.399,TRUE,Client Services
+Katherine,Female,11-14-1999,8:15 AM,57531,1.767,FALSE,Client Services
+Jonathan,Male,10-12-1987,2:59 AM,141069,4.903,FALSE,Human Resources
+Emily,Female,9-20-2007,11:25 AM,89434,11.295,FALSE,Engineering
+Ruth,Female,08-12-1986,7:29 PM,44639,9.148,TRUE,Legal
+Linda,Female,6-24-2006,12:04 PM,110967,19.612,TRUE,Human Resources
+Lisa,Female,11-02-2009,9:42 AM,115387,1.821,FALSE,Client Services
+Evelyn,Female,5-24-1980,11:10 PM,81673,15.364,TRUE,Engineering
+Julie,Female,7-23-1989,1:52 PM,109588,3.55,FALSE,Engineering
+Mary,Female,5-30-2009,11:41 PM,92544,3.8,FALSE,Client Services
+Matthew,Male,7-31-2013,8:04 AM,142373,2.462,FALSE,Marketing
+Douglas,Male,09-03-1999,4:00 PM,83341,1.015,TRUE,Client Services
+Gregory,,6-15-1992,5:08 AM,98865,10.628,TRUE,Finance
+Billy,Male,3-13-1995,12:05 PM,120444,7.768,TRUE,Finance
+,Female,6-17-1991,12:49 PM,71945,5.56,,Marketing
+Gregory,Male,1-29-2000,6:01 AM,109564,3.845,FALSE,Legal
+Jason,Male,10-17-1999,10:09 PM,78417,3.067,FALSE,Finance
+Daniel,Male,4-30-2010,3:48 AM,106947,15.866,TRUE,Legal
+Sarah,Female,9-14-1995,7:50 AM,87298,2.311,FALSE,Distribution
+Harry,Male,10-01-2015,7:47 PM,64579,15.266,TRUE,Sales
+Kathy,Female,4-19-1995,12:46 AM,50905,9.404,TRUE,Finance
+Todd,Male,4-13-1999,10:31 AM,59728,11.226,TRUE,Client Services
+Bobby,Male,9-23-1994,1:29 AM,51685,17.445,TRUE,Engineering
+Jeremy,Male,06-08-2000,12:15 AM,49542,1.679,TRUE,Distribution
+George,,2-24-1988,11:29 AM,38375,8.999,FALSE,Legal
+Diane,Female,4-18-1993,3:22 AM,64084,17.018,FALSE,Product
+Marilyn,Female,04-04-1997,9:28 PM,147663,10.263,FALSE,Human Resources
+Kathryn,Female,02-04-2004,1:47 PM,73935,14.752,FALSE,Sales
+Irene,Female,02-04-1982,5:26 PM,40837,12.182,TRUE,Client Services
+Norma,Female,02-11-2015,11:44 PM,94393,3.643,TRUE,Engineering
+Laura,Female,04-02-2006,1:57 PM,42087,2.624,FALSE,Product
+Cheryl,Female,9-23-2008,2:57 AM,52080,9.375,FALSE,Legal
+Kevin,Male,3-25-1982,7:31 AM,35061,5.128,FALSE,Legal
+Lillian,,05-12-2016,3:43 PM,64164,17.612,FALSE,Human Resources
+Phyllis,,4-21-1984,7:05 PM,94088,19.107,FALSE,Distribution
+Walter,Male,07-06-1983,11:54 PM,127813,5.961,FALSE,Finance
+Robert,Male,10-27-1990,7:15 PM,38041,18.428,TRUE,Engineering
+Jimmy,Male,10-07-1986,5:53 PM,126310,5.413,TRUE,Product
+Clarence,Male,10-08-1996,12:53 PM,142561,8.866,FALSE,Client Services
+Victor,Male,04-11-1991,7:44 AM,70817,17.138,FALSE,Engineering
+Fred,,12-02-1984,2:03 PM,59937,12.045,TRUE,Human Resources
+Brenda,,7-27-2010,11:07 PM,106115,3.742,TRUE,Product
+Justin,Male,12-06-1992,5:58 PM,82782,4.366,TRUE,Distribution
+Betty,Female,06-12-2002,3:59 AM,104896,19.55,TRUE,Business Development
+Randy,,02-06-1986,3:04 PM,133943,8.94,TRUE,Sales
+Sharon,,03-01-1990,3:46 AM,83658,6.513,FALSE,Business Development
+Ralph,Male,11-11-2004,1:35 AM,71896,4.232,TRUE,Marketing
+,,4-28-2003,3:01 AM,113732,10.391,,Sales
+Edward,Male,5-27-1985,10:13 PM,110485,7.995,FALSE,Client Services
+Denise,Female,3-20-2009,7:57 AM,115118,5.108,FALSE,Human Resources
+Debra,Female,3-13-1998,11:16 PM,48696,4.75,FALSE,Legal
+,Male,11-25-1999,6:16 AM,42676,15.517,,Sales
+Michael,Male,1-24-2002,3:04 AM,43586,12.659,FALSE,
+Henry,Male,02-06-1995,8:34 AM,89258,15.585,TRUE,Human Resources
+Gloria,Female,3-27-2007,1:44 AM,90730,2.491,FALSE,Distribution
+Marie,Female,08-06-1995,1:58 PM,100308,13.677,FALSE,Product
+Anne,Female,7-16-1986,2:08 PM,69134,3.723,TRUE,Engineering
+Sarah,,11-21-1985,1:08 PM,58295,14.603,TRUE,Engineering
+Stephanie,Female,3-24-1983,11:15 AM,50141,13.218,TRUE,Human Resources
+Roy,Male,9-23-2004,1:31 PM,101941,3.45,FALSE,Client Services
+,Female,08-05-2009,8:14 AM,115145,14.063,,Distribution
+,Male,02-04-2005,1:01 PM,40451,16.044,,Distribution
+Irene,Female,03-03-1982,8:26 AM,56526,5.81,TRUE,Finance
+,Female,08-02-1992,8:35 PM,145316,18.517,,Human Resources
+Thomas,Male,04-06-2011,1:04 PM,103235,9.554,TRUE,Human Resources
+Frank,,11-20-2001,10:18 AM,58563,12.062,TRUE,Marketing
+Fred,Male,2-20-1980,2:25 AM,74129,18.225,FALSE,Product
+Nicholas,Male,04-12-1994,8:21 PM,74669,1.113,TRUE,Product
+Howard,Male,10-05-1982,7:22 AM,97490,5.46,TRUE,Marketing
+Debra,Female,2-22-1994,10:25 PM,104250,18.456,TRUE,Business Development
+Christine,Female,07-03-1989,4:01 AM,94345,11.996,FALSE,Finance
+Brenda,,5-29-1991,6:32 AM,82439,19.062,FALSE,Sales
+Betty,Female,6-28-2005,6:03 PM,51613,12.984,FALSE,Distribution
+Ruby,Female,11-08-2000,7:35 PM,105946,1.139,FALSE,Business Development
+Kevin,Male,07-12-1997,2:07 AM,46080,9.635,FALSE,Business Development
+Arthur,Male,01-01-2014,7:46 PM,134610,6.147,TRUE,Human Resources
+Carl,,02-07-2014,3:57 AM,125104,12.345,FALSE,Client Services
+Todd,Male,03-11-2009,3:43 AM,107281,1.612,TRUE,Engineering
+Brenda,Female,10-06-2005,9:33 PM,141521,4.337,FALSE,Client Services
+Judy,Female,9-16-1997,12:10 AM,65931,2.304,FALSE,Human Resources
+Todd,Male,02-02-1984,10:13 AM,69989,10.985,TRUE,Finance
+Lois,Female,11-09-2011,7:06 AM,147183,9.999,TRUE,Client Services
+Walter,,12-21-1999,10:33 PM,66757,18.099,FALSE,Distribution
+Jessica,Female,9-27-1985,1:35 PM,75145,6.388,TRUE,Legal
+Jeremy,Male,6-14-1988,6:20 PM,129460,13.657,TRUE,
+Tammy,Female,11-11-1984,10:30 AM,132839,17.463,TRUE,Client Services
+Anne,Female,03-07-2000,6:45 AM,44537,18.284,TRUE,Client Services
+Jesse,Male,10-25-1999,3:35 PM,118733,9.653,FALSE,Marketing
+Virginia,Female,10-20-1999,6:23 AM,46905,19.154,FALSE,Distribution
+Jesse,Male,03-02-1981,7:26 PM,79582,3.873,FALSE,Legal
+Jeremy,,11-10-1996,1:49 PM,55394,3.18,TRUE,Sales
+Daniel,Male,9-15-2007,10:16 PM,123811,7.664,TRUE,Human Resources
+Patrick,,8-30-2004,11:43 AM,137314,4.542,TRUE,Marketing
+Emily,Female,1-13-1988,6:42 AM,36711,19.028,TRUE,Human Resources
+Alan,Male,6-26-1988,3:54 AM,111786,3.592,TRUE,Engineering
+James,Male,07-11-2015,8:52 PM,72257,13.023,FALSE,Engineering
+Adam,Male,07-05-2007,11:59 AM,71276,5.027,TRUE,Human Resources
+Joan,,7-25-1980,12:22 PM,38712,3.657,FALSE,Client Services
+Jeremy,Male,08-12-1981,12:05 AM,46930,18.702,TRUE,Finance
+Margaret,Female,02-06-1993,1:05 PM,125220,3.733,FALSE,Marketing
+Mark,Male,04-01-1984,1:21 PM,121477,17.44,TRUE,Business Development
+Marilyn,Female,9-26-1981,2:23 AM,86386,2.937,FALSE,Distribution
+Cheryl,Female,09-08-2009,10:16 AM,81308,2.196,TRUE,Legal
+Benjamin,Male,09-11-1984,6:37 AM,84810,15.794,FALSE,Marketing
+Harold,Male,2-20-1990,11:00 PM,66775,2.158,TRUE,Legal
+Ernest,,1-18-2002,1:51 AM,72145,13.448,TRUE,Finance
+Gerald,Male,4-16-2001,10:09 PM,121604,1.923,TRUE,Sales
+Judy,Female,07-01-1991,2:33 AM,109510,13.457,TRUE,Legal
+Bobby,Male,3-31-1996,5:40 PM,112117,6.338,FALSE,
+Bobby,,09-01-1995,2:09 PM,108127,15.858,FALSE,Client Services
+Marie,Female,10-03-2013,8:05 PM,123711,10.966,FALSE,Product
+Kathy,Female,12-18-2013,3:09 PM,132381,8.34,FALSE,Business Development
+Roy,Male,08-06-2006,7:52 AM,148225,1.841,FALSE,Finance
+Jacqueline,Female,11-25-1981,3:01 PM,145988,18.243,FALSE,Marketing
+,Female,07-08-2008,11:40 PM,62960,14.356,,Sales
+Julie,Female,3-23-1986,9:26 AM,56926,7.507,FALSE,Sales
+Douglas,Male,01-08-2002,6:42 PM,41428,14.372,FALSE,Product
+Linda,Female,12-16-1990,2:20 AM,115658,3.041,TRUE,Sales
+Ruby,Female,12-10-1988,8:27 PM,76707,6.031,FALSE,Business Development
+Russell,Male,01-02-2005,1:48 AM,60388,17.885,FALSE,Client Services
+Jeffrey,Male,6-18-1997,8:01 PM,45150,12.075,TRUE,Product
+Aaron,Male,1-29-1994,6:48 PM,58755,5.097,TRUE,Marketing
+Samuel,Male,12-19-1991,2:54 AM,76076,5.319,TRUE,Finance
+,Male,1-27-2010,2:57 AM,87760,14.987,,Engineering
+Randy,Male,3-16-2014,6:24 PM,135119,7.887,FALSE,Client Services
+Evelyn,Female,09-03-1983,1:58 PM,36759,17.269,TRUE,Marketing
+Fred,Male,2-13-1987,2:15 PM,121723,18.645,TRUE,Product
+Shirley,Female,06-08-1986,2:25 AM,110061,7.494,FALSE,Client Services
+Todd,Male,5-23-2011,4:14 PM,85074,1.844,FALSE,Client Services
+Robert,Male,11-18-2014,5:00 AM,85799,19.93,FALSE,Finance
+Mark,Male,1-22-2007,2:37 PM,75150,12.182,TRUE,Legal
+Earl,Male,01-05-2000,5:46 PM,91344,4.035,TRUE,Sales
+Richard,Male,9-27-2005,1:41 AM,86326,10.717,FALSE,Product
+Michael,Male,11-22-1991,12:57 PM,98753,16.443,TRUE,Human Resources
+Steven,Male,05-12-2009,2:14 PM,113060,2.846,TRUE,Sales
+Carlos,Male,9-19-2007,1:01 AM,77327,11.58,TRUE,Finance
+Marie,Female,10-20-2011,10:09 PM,62666,10.247,FALSE,Product
+Ronald,Male,2-24-2009,2:09 PM,96633,4.99,TRUE,Engineering
+Scott,Male,05-12-2009,4:36 AM,58248,3.914,FALSE,Business Development
+Steven,Male,11-21-2006,8:30 AM,83706,6.96,TRUE,Human Resources
+James,Male,11-22-1998,3:48 AM,74086,5.778,TRUE,Human Resources
+Lori,Female,3-31-1988,10:59 PM,95389,14.223,FALSE,Sales
+Philip,Male,08-02-1989,11:21 AM,129968,19.897,FALSE,Finance
+Phyllis,Female,11-24-2005,11:57 PM,140347,8.723,FALSE,Sales
+Thomas,,8-31-1995,8:31 PM,41549,3.95,FALSE,Sales
+Cynthia,Female,12-03-2012,11:03 PM,74287,10.751,FALSE,Sales
+,Male,10-09-2011,9:29 AM,69906,4.844,,Engineering
+,Male,4-22-1997,9:36 PM,65078,3.095,,Marketing
+Elizabeth,Female,11-10-2005,4:56 AM,106406,1.782,TRUE,Legal
+Andrea,Female,9-14-2003,10:30 PM,115913,12.121,FALSE,Legal
+Judy,Female,02-01-1990,3:32 PM,38092,5.668,FALSE,Distribution
+Russell,Male,8-13-2014,3:51 PM,121160,7.843,FALSE,Engineering
+Scott,Male,12-17-2011,3:45 AM,90429,4.45,FALSE,Product
+Sarah,Female,5-22-1994,7:06 AM,64207,7.824,TRUE,Client Services
+Susan,Female,9-25-2004,1:30 AM,80688,18.892,TRUE,Sales
+Margaret,Female,05-05-2014,6:01 AM,55044,4.078,FALSE,Sales
+Joshua,Male,11-09-2009,6:32 AM,72893,9.555,FALSE,Distribution
+Justin,,4-15-2005,8:43 PM,96978,13.865,FALSE,Finance
+Juan,Male,4-16-2002,11:09 PM,97364,3.595,FALSE,Product
+Gloria,,7-19-1983,1:57 AM,140885,1.113,FALSE,Human Resources
+Jennifer,,1-24-1989,8:38 PM,58520,16.231,TRUE,Client Services
+Edward,Male,08-04-1989,6:06 AM,66067,10.957,TRUE,
+Marilyn,Female,12-17-1982,12:10 PM,147183,8.748,FALSE,Business Development
+Mary,Female,10-18-2009,6:32 PM,87721,12.484,FALSE,Product
+Linda,Female,7-15-2009,10:12 PM,144001,2.194,FALSE,Business Development
+Larry,Male,8-27-2003,1:00 PM,91133,5.14,FALSE,Sales
+Albert,Male,02-01-1997,4:20 PM,67827,19.717,TRUE,Engineering
+Kenneth,Male,4-13-1999,10:28 PM,81839,12.072,FALSE,Sales
+,Female,12-31-2006,11:02 PM,81444,3.171,,Distribution
+Gregory,,07-09-2011,11:31 PM,137661,4.805,TRUE,Sales
+Brandon,Male,10-16-2015,2:44 AM,112548,4.664,FALSE,Engineering
+Stephen,Male,04-09-1987,12:47 PM,111249,10.574,TRUE,Human Resources
+Russell,Male,10-30-1994,5:46 AM,114334,9.669,FALSE,Product
+,Female,9-18-2002,12:39 PM,118906,4.537,,Marketing
+Pamela,,7-15-2001,1:33 PM,72979,5.66,FALSE,Sales
+Scott,Male,08-03-1996,1:50 AM,64172,10.894,TRUE,Engineering
+,Female,4-18-1996,3:57 PM,107024,12.182,,
+Carlos,Male,7-28-2010,3:08 PM,50167,2.362,FALSE,Product
+Jack,Male,12-24-1980,10:58 PM,106995,15.723,FALSE,Product
+Debra,Female,1-19-2010,8:48 AM,70492,8.895,FALSE,Client Services
+Phyllis,Female,1-15-1995,5:27 AM,125881,16.697,FALSE,Sales
+Robert,Male,10-29-1994,4:26 AM,123294,19.894,FALSE,Client Services
+Gloria,Female,9-19-1989,7:40 PM,131045,11.312,TRUE,Product
+Sharon,,10-28-1984,5:59 PM,97635,10.413,TRUE,Client Services
+Barbara,,4-26-2001,12:22 AM,94493,13.443,TRUE,Sales
+Marilyn,Female,8-15-1989,9:14 AM,140502,9.989,TRUE,Sales
+Ralph,Male,10-27-2010,10:28 AM,106310,4.03,TRUE,Client Services
+Harry,,12-05-1996,5:45 AM,46240,6.976,TRUE,Engineering
+Robin,Female,01-08-1998,2:12 AM,111163,5.025,TRUE,Product
+Kathy,Female,11-25-2001,9:55 PM,93753,7.094,TRUE,Sales
+Rose,Female,07-06-2002,3:57 PM,63494,19.385,TRUE,Human Resources
+Clarence,Male,1-13-2005,9:00 AM,116693,13.835,TRUE,Distribution
+Doris,Female,7-29-1992,6:40 PM,85215,7.425,TRUE,Human Resources
+Kathryn,Female,06-09-1988,9:29 AM,86439,7.799,FALSE,Finance
+Billy,,3-16-2004,8:21 AM,62913,18.241,TRUE,Marketing
+Norma,Female,4-16-1996,5:40 AM,38872,9.302,TRUE,Business Development
+Richard,,11-28-1992,5:05 PM,124655,14.272,TRUE,Engineering
+Craig,Male,02-08-1984,4:45 AM,113506,19.642,FALSE,Marketing
+Sarah,,7-20-1990,10:49 PM,109980,8.86,FALSE,Sales
+Sharon,Female,03-09-2014,4:39 PM,91522,7.564,FALSE,Finance
+Mary,Female,8-22-2010,8:03 AM,42214,17.538,TRUE,Business Development
+Steve,,2-23-2002,3:55 AM,83159,9.55,TRUE,Distribution
+Joe,Male,12-05-2010,4:20 PM,144082,1.62,TRUE,Client Services
+Jeremy,Male,5-29-1994,6:24 AM,47885,19.276,TRUE,Human Resources
+Ernest,Male,8-14-2012,11:25 AM,126232,6.191,TRUE,Sales
+Kevin,Male,6-23-1981,8:26 PM,134598,11.699,FALSE,Business Development
+Jacqueline,Female,02-11-2007,2:01 AM,66604,14.609,FALSE,Legal
+Johnny,Male,9-14-1992,8:21 AM,115194,5.861,TRUE,Marketing
+Gary,Male,8-18-2011,8:12 AM,49101,11.9,TRUE,Business Development
+Shirley,,11-16-1990,6:01 PM,67811,12.699,FALSE,Finance
+,Male,6-29-2008,5:23 AM,111043,5.966,,Distribution
+Sarah,,8-31-1981,2:51 PM,37748,9.047,FALSE,Human Resources
+Julia,Female,03-02-1982,12:52 PM,36403,2.664,TRUE,Finance
+Dorothy,Female,11-05-2013,10:50 PM,140136,3.12,TRUE,Business Development
+Justin,Male,5-22-1986,6:30 AM,121508,19.334,TRUE,Finance
+Kevin,Male,11-20-1986,6:59 PM,79906,18.021,TRUE,Sales
+Victor,Male,9-24-2005,12:04 PM,123144,16.261,TRUE,Product
+Deborah,Female,11-25-1980,4:33 AM,46953,17.436,FALSE,Client Services
+Matthew,,06-09-2003,7:35 AM,79443,14.637,FALSE,Human Resources
+Alice,Female,05-02-1986,1:50 AM,51395,2.378,TRUE,Finance
+Todd,Male,3-16-2016,2:45 PM,134408,3.56,TRUE,Human Resources
+Frank,Male,01-10-1981,1:30 PM,71853,8.037,TRUE,Sales
+Christopher,Male,5-13-1999,10:48 AM,68028,7.869,TRUE,Finance
+Rose,Female,5-28-2015,8:40 AM,149903,5.63,FALSE,Human Resources
+Andrea,Female,10-01-2010,11:54 AM,79123,19.422,FALSE,Distribution
+Charles,Male,12-16-1999,8:28 PM,104014,7.077,FALSE,Legal
+Jessica,,03-07-2015,8:45 PM,121160,12.993,FALSE,Client Services
+Wanda,Female,7-20-2008,1:44 PM,65362,7.132,TRUE,Legal
+Joyce,Female,02-07-1995,7:38 AM,50701,14.227,TRUE,
+Billy,Male,12-01-2006,3:32 PM,144709,10.069,TRUE,Distribution
+Kathryn,Female,8-29-2007,6:10 AM,53061,11.864,TRUE,Finance
+Denise,Female,3-18-2001,12:02 AM,36697,11.196,TRUE,Sales
+Jason,Male,11-20-1998,2:54 PM,69244,6.22,TRUE,
+Nicholas,Male,03-01-2013,9:26 PM,101036,2.826,TRUE,Human Resources
+Aaron,Male,7-22-1990,2:53 PM,52119,11.343,TRUE,Client Services
+Louise,Female,5-13-2003,9:47 AM,46666,1.886,TRUE,Business Development
+Julie,Female,4-23-1998,5:52 AM,73437,2.518,TRUE,Finance
+Kathy,Female,05-08-1987,6:19 PM,86318,18.492,TRUE,Sales
+,Male,5-24-2016,9:17 PM,76409,7.008,,Distribution
+Chris,Male,12-12-2006,1:57 AM,71642,1.496,FALSE,
+Cheryl,Female,8-16-1994,8:33 AM,67150,15.85,TRUE,Marketing
+Gregory,Male,5-15-2009,3:52 PM,142208,11.204,TRUE,Engineering
+Wayne,Male,1-30-1992,3:01 PM,81183,17.066,FALSE,Client Services
+Beverly,Female,11-30-2005,2:57 AM,107163,3.665,TRUE,Human Resources
+Willie,Male,8-22-2009,1:03 PM,55038,19.691,FALSE,Legal
+Terry,,7-15-2016,12:29 AM,140002,19.49,TRUE,Marketing
+Scott,Male,11-17-2012,2:47 PM,146812,1.965,TRUE,Marketing
+Annie,Female,12-19-1994,6:19 AM,40119,4.338,TRUE,Human Resources
+,Male,2-21-1995,12:26 AM,136602,10.429,,Marketing
+Ruth,Female,10-24-2000,4:13 AM,69579,18.029,TRUE,Human Resources
+Deborah,,02-03-1983,11:38 PM,101457,6.662,FALSE,Engineering
+Patricia,Female,01-09-2015,4:16 AM,121232,16.624,FALSE,Legal
+Albert,Male,9-30-2007,5:34 PM,102626,15.843,FALSE,Finance
+Charles,,03-01-1987,1:00 PM,137171,5.574,TRUE,Marketing
+Tina,Female,1-17-2005,9:11 AM,88276,14.248,FALSE,Legal
+Jeremy,Male,08-09-2001,3:56 AM,43354,13.946,FALSE,Marketing
+Craig,Male,4-14-1996,9:17 AM,125556,7.996,FALSE,Engineering
+Jose,Male,07-11-2002,9:15 AM,59862,3.269,FALSE,Product
+Lawrence,Male,5-13-2005,1:25 AM,74640,18.641,FALSE,Marketing
+Helen,Female,10-31-1997,2:43 AM,52875,4.188,FALSE,Legal
+Walter,Male,08-04-2007,1:59 PM,58789,5.461,FALSE,Sales
+Amy,Female,6-19-2002,3:06 AM,122897,8.222,TRUE,Engineering
+Janice,Female,6-28-1997,1:48 PM,136032,10.696,TRUE,Marketing
+Stephen,Male,05-09-2015,7:07 PM,141958,9.078,TRUE,Legal
+Ryan,Male,7-20-1993,10:18 PM,139917,11.466,FALSE,Distribution
+Sharon,Female,03-12-2002,6:32 AM,147635,14.693,FALSE,Human Resources
+Joshua,Male,07-10-1984,7:22 PM,68230,8.047,FALSE,Client Services
+Clarence,Male,8-20-1992,8:23 PM,124365,8.457,FALSE,Business Development
+Jonathan,Male,8-15-2002,12:01 AM,104749,11.364,FALSE,Engineering
+Stephanie,Female,11-26-1992,12:54 AM,122121,7.937,TRUE,Engineering
+Kathy,Female,10-25-1996,12:59 PM,143541,8.461,FALSE,Human Resources
+Albert,Male,8-14-2008,5:43 PM,137840,9.705,FALSE,Business Development
+Michael,Male,5-22-2011,10:42 AM,73354,18.357,FALSE,Business Development
+Richard,Male,07-04-1997,11:47 AM,47647,18.787,TRUE,
+Amy,Female,3-30-2008,10:54 PM,106249,15.967,FALSE,Sales
+,Female,4-27-2013,6:40 AM,93847,1.085,,Business Development
+Beverly,,05-03-1995,5:49 AM,104815,3.38,FALSE,Product
+,Female,4-26-1992,8:01 PM,115436,3.099,,Human Resources
+Joe,Male,4-14-2000,3:14 PM,50645,11.119,FALSE,Marketing
+Ashley,Female,8-15-1997,9:48 PM,142415,1.985,TRUE,Finance
+Howard,Male,04-09-2012,6:36 AM,37984,2.021,FALSE,Distribution
+Cheryl,Female,12-03-2014,9:27 AM,71751,15.918,FALSE,Business Development
+Robert,Male,03-11-2007,11:20 AM,135882,19.944,FALSE,Legal
+Sharon,Female,07-01-2011,9:50 AM,46007,19.731,TRUE,Client Services
+Judith,Female,11-23-2007,1:22 PM,117055,7.461,FALSE,Marketing
+Nicholas,,09-09-1989,7:12 PM,58478,6.525,TRUE,Distribution
+Jerry,Male,1-30-1995,7:51 PM,121357,18.845,FALSE,Business Development
+Craig,Male,11-01-2005,11:31 PM,44857,13.266,FALSE,Finance
+Barbara,Female,3-21-2002,8:02 AM,47322,7.25,TRUE,Sales
+Eugene,Male,5-24-1984,10:54 AM,81077,2.117,FALSE,Sales
+Johnny,Male,2-26-2016,7:39 PM,76394,5.437,TRUE,Marketing
+Benjamin,Male,05-05-2013,3:28 PM,114356,7.123,FALSE,Client Services
+Diana,Female,6-13-1994,4:21 PM,41831,4.548,FALSE,Business Development
+Barbara,,12-10-1980,11:04 PM,90187,14.764,TRUE,Distribution
+Christine,Female,02-01-2003,1:11 PM,72613,11.126,FALSE,Legal
+Sean,Male,02-11-2013,7:07 PM,42748,9.765,FALSE,Distribution
+Sarah,Female,11-03-1980,2:47 PM,37259,1.763,FALSE,Client Services
+Roger,Male,08-03-2015,4:56 PM,125033,4.887,TRUE,Marketing
+,Female,6-24-2014,10:05 AM,38275,10.494,,Distribution
+,Male,4-20-1980,1:17 PM,71520,13.248,,Engineering
+Donald,Male,7-14-1995,7:51 AM,106472,6.499,TRUE,Client Services
+Clarence,Male,11-03-2015,12:11 AM,103684,18.654,TRUE,Engineering
+Scott,Male,11-23-1996,7:36 PM,96111,15.592,FALSE,Human Resources
+Ann,Female,11-04-1984,12:17 PM,90719,6.22,FALSE,Business Development
+Frank,Male,4-27-2003,12:04 PM,140303,17.07,FALSE,Legal
+Joe,Male,07-04-1983,7:32 AM,62161,8.13,TRUE,Business Development
+Wanda,Female,04-06-1993,3:11 AM,78883,19.695,FALSE,
+Jimmy,Male,11-19-2013,7:29 PM,63549,19.624,FALSE,
+Amy,,12-25-1984,10:52 AM,63888,18.115,TRUE,Product
+Larry,Male,01-08-1999,2:05 AM,97370,10.458,FALSE,Sales
+Gloria,Female,04-12-1992,8:26 PM,66224,15.979,TRUE,Legal
+Ruth,Female,12-12-1996,10:07 AM,97915,3.997,TRUE,Human Resources
+Diana,Female,1-19-1995,12:37 AM,86883,18.003,TRUE,Product
+Raymond,Male,2-16-2009,10:38 PM,37812,3.178,FALSE,Human Resources
+Peter,Male,2-22-2003,9:09 AM,56580,8.411,TRUE,
+,,9-25-1981,9:59 AM,83895,17.971,,Engineering
+Catherine,Female,8-31-2013,7:24 PM,58047,14.858,TRUE,Distribution
+Diane,Female,07-05-1982,4:56 PM,124889,15.026,TRUE,Sales
+Peter,,10-13-2014,9:33 PM,118840,14.509,TRUE,Client Services
+Steve,Male,8-22-1995,6:58 AM,67780,9.54,TRUE,Human Resources
+Barbara,Female,3-22-2004,8:11 AM,144677,8.696,FALSE,Finance
+Helen,,12-02-1993,1:42 PM,45724,1.022,FALSE,Product
+Jimmy,,8-26-1983,2:48 AM,86676,7.175,TRUE,Product
+Christopher,Male,4-23-2014,7:52 AM,82401,7.252,FALSE,Client Services
+Kathleen,Female,6-13-2014,9:16 AM,35575,14.595,FALSE,Distribution
+Virginia,Female,05-02-2010,9:10 PM,123649,10.154,TRUE,Marketing
+Lisa,Female,2-26-2005,6:33 PM,38078,10.28,TRUE,Product
+Earl,Male,02-11-2014,9:03 PM,52620,13.773,FALSE,Product
+Gerald,,01-08-1992,3:50 PM,133366,12.292,FALSE,Legal
+Louise,Female,9-18-1981,5:47 AM,91462,8.205,FALSE,Marketing
+Clarence,Male,8-26-1982,9:47 AM,146589,4.905,TRUE,Business Development
+Cynthia,Female,9-14-1991,1:08 PM,51633,13.472,TRUE,Business Development
+Adam,Male,10-08-2010,9:53 PM,45181,3.491,FALSE,Human Resources
+Justin,Male,09-06-1999,10:30 AM,62454,3.459,TRUE,Sales
+,Female,12-02-2009,3:30 AM,84746,4.82,,Finance
+Ruby,Female,05-01-1999,3:36 AM,147362,7.851,TRUE,Engineering
+Amanda,Female,08-01-2004,1:32 PM,80803,14.077,TRUE,Distribution
+Anna,Female,4-15-2008,2:34 PM,117293,2.366,FALSE,Client Services
+Roger,Male,07-03-2010,5:11 PM,105689,13.32,TRUE,Marketing
+Julie,,02-04-1999,5:35 PM,93302,9.048,TRUE,Product
+Joseph,Male,09-10-1992,6:50 PM,102555,3.672,TRUE,Product
+Evelyn,Female,9-22-1998,7:55 PM,51525,10.366,FALSE,Finance
+Janice,Female,01-02-1984,9:06 PM,41190,3.311,TRUE,Sales
+Sara,Female,2-25-1980,10:50 PM,75484,3.186,FALSE,Finance
+Gregory,Male,6-18-1984,3:46 AM,82726,16.304,TRUE,Marketing
+Philip,Male,7-18-1985,6:36 AM,122319,19.122,FALSE,Engineering
+Barbara,Female,09-02-1991,3:41 PM,127297,11.905,TRUE,Product
+Amanda,Female,06-07-2002,7:46 AM,109290,13.853,FALSE,Engineering
+Phyllis,,10-25-1985,7:11 AM,99150,6.007,FALSE,Client Services
+Anne,Female,10-26-1996,8:09 PM,71930,18.451,TRUE,Product
+Arthur,Male,12-16-2014,4:56 PM,66819,6.639,TRUE,Marketing
+Jane,Female,06-01-1994,8:39 AM,42424,18.115,FALSE,Distribution
+Linda,Female,8-18-1985,4:34 AM,51431,13.295,FALSE,Engineering
+Ashley,Female,11-17-1999,9:18 PM,120675,6.51,FALSE,Human Resources
+Shawn,Male,12-03-2009,10:24 AM,96610,2.097,TRUE,Client Services
+Kathleen,Female,9-20-1996,3:45 PM,71430,8.572,FALSE,Engineering
+Sara,,10-07-1983,1:35 PM,87713,18.863,TRUE,Legal
+Randy,Male,05-02-2002,7:39 PM,86723,14.842,FALSE,Engineering
+Andrew,Male,3-29-1985,6:57 PM,43414,7.563,TRUE,Client Services
+Marilyn,Female,08-09-2006,11:24 AM,87145,17.33,FALSE,Human Resources
+Johnny,Male,01-08-1995,1:35 PM,91124,12.986,TRUE,Distribution
+,Female,04-01-1980,8:04 PM,48141,12.605,,
+Susan,Female,4-18-1986,9:31 AM,90829,19.142,FALSE,Marketing
+Ruby,Female,07-07-1980,3:42 AM,101262,6.773,FALSE,Client Services
+Kelly,Female,8-16-1996,3:09 AM,41427,1.431,FALSE,Product
+Jonathan,Male,04-06-1995,10:38 PM,56993,18.623,FALSE,Marketing
+Raymond,Male,1-13-1996,4:14 PM,114244,16.69,FALSE,Human Resources
+Kimberly,Female,12-30-1981,4:51 AM,81800,5.435,TRUE,
+,Female,1-13-2009,1:01 PM,118736,7.421,,Client Services
+John,Male,1-22-1995,12:17 AM,66077,5.809,TRUE,Product
+Michael,Male,7-30-1993,5:35 PM,35013,14.879,FALSE,Product
+Jerry,Male,05-04-2003,4:29 AM,98393,11.393,FALSE,Client Services
+Amanda,Female,3-17-1982,11:46 PM,107111,1.438,TRUE,Product
+Harold,Male,10-18-2010,8:45 PM,65673,1.187,TRUE,Legal
+Harry,Male,1-27-1985,8:18 PM,65482,18.089,FALSE,
+Ernest,Male,1-28-1990,12:08 AM,81919,15.118,FALSE,Marketing
+Harry,Male,11-19-1982,11:25 AM,59277,10.2,FALSE,Finance
+Diane,Female,02-02-1988,6:14 PM,49501,13.506,FALSE,Business Development
+Jack,Male,5-30-2012,3:17 AM,70367,18.266,TRUE,Legal
+Shirley,Female,4-16-1988,11:09 AM,132156,2.754,FALSE,Marketing
+Rose,Female,10-30-2004,4:34 PM,56961,7.585,FALSE,Marketing
+Cheryl,Female,7-23-1982,6:28 AM,98841,8.945,TRUE,Client Services
+Cynthia,Female,5-23-1980,3:19 AM,78226,2.419,FALSE,Human Resources
+Sandra,Female,4-24-1995,7:14 PM,116931,9.657,TRUE,Human Resources
+Andrea,Female,10-30-1994,11:23 AM,87575,13.346,TRUE,Business Development
+Rachel,Female,4-22-1988,12:01 PM,110924,7.808,FALSE,Distribution
+Justin,Male,5-24-1981,11:15 PM,78351,15.221,FALSE,Sales
+Marie,Female,11-23-2000,5:06 AM,125574,4.644,FALSE,Sales
+Louis,Male,4-15-2011,5:02 AM,95198,2.075,FALSE,Business Development
+Nancy,Female,05-07-1985,10:20 PM,121006,3.512,TRUE,Finance
+Mark,Male,10-03-1984,5:31 AM,95728,6.752,TRUE,Business Development
+Teresa,Female,6-24-1987,7:37 PM,69740,8.294,FALSE,Distribution
+Frances,Female,7-21-2001,2:34 AM,91996,11.506,FALSE,Product
+,Female,10-11-1990,10:57 PM,98385,10.925,,Human Resources
+Barbara,,12-20-1994,10:09 AM,90556,15.749,TRUE,Distribution
+Christine,,6-15-1980,6:00 PM,50366,9.862,TRUE,Marketing
+Bobby,,7-21-2003,3:50 PM,84232,15.704,TRUE,Engineering
+Carl,,10-26-1991,8:11 AM,100888,12.49,TRUE,Business Development
+Bruce,Male,3-15-2013,11:13 PM,141335,15.427,TRUE,Engineering
+Rose,Female,5-20-1982,9:14 AM,97691,2.142,FALSE,Client Services
+Mildred,Female,2-21-1981,3:30 AM,47266,10.256,FALSE,Client Services
+,Male,10-13-1983,11:59 PM,139754,12.74,,Sales
+,Female,10-24-1993,5:17 PM,116236,17.274,,Engineering
+Todd,Male,2-16-2010,11:29 AM,103405,15.91,FALSE,Sales
+Alan,Male,2-17-2012,12:26 AM,41453,10.084,FALSE,Product
+Elizabeth,,2-16-1981,3:58 AM,52730,12.525,FALSE,Marketing
+Julie,,10-21-2000,1:15 AM,60361,7.099,TRUE,Distribution
+Teresa,,01-03-1992,3:47 PM,63103,11.378,FALSE,Finance
+Eric,Male,11-12-2004,9:16 PM,65168,11.513,FALSE,Distribution
+Edward,Male,8-30-2001,1:24 AM,73105,6.083,TRUE,Engineering
+Kimberly,Female,12-06-1986,2:23 PM,37916,12.929,TRUE,Distribution
+Kathy,Female,1-14-2001,5:11 AM,45682,1.451,TRUE,Marketing
+Peter,Male,11-24-1992,5:43 PM,69297,1.268,FALSE,Finance
+Beverly,Female,10-22-1990,2:45 PM,59070,19.064,TRUE,Engineering
+Ralph,Male,03-07-2012,2:25 AM,81215,8.4,FALSE,Finance
+Justin,Male,08-10-1997,11:00 PM,128036,18.824,FALSE,Client Services
+Irene,Female,6-23-2005,11:03 AM,89780,8.999,TRUE,Sales
+Irene,Female,11-29-2006,2:14 PM,125018,9.601,TRUE,Legal
+Jeremy,Male,11-26-1997,8:22 AM,133033,12.2,FALSE,Sales
+Cynthia,Female,6-29-2015,6:38 AM,82408,8.701,TRUE,Marketing
+,Female,4-13-1997,8:03 AM,131755,2.93,,
+Anne,Female,11-21-1984,12:30 PM,128305,16.636,FALSE,Marketing
+,,09-02-1988,12:49 PM,147309,1.702,,Distribution
+Debra,Female,03-12-1983,12:19 PM,74911,19.513,FALSE,Marketing
+Michael,Male,7-13-1988,1:48 PM,47079,2.617,FALSE,Legal
+Jason,,03-06-2008,1:20 AM,82873,1.869,FALSE,Client Services
+Rebecca,Female,2-23-1990,3:21 PM,134673,6.878,FALSE,Engineering
+Andrea,Female,11-17-2011,2:37 PM,123591,6.5,TRUE,Engineering
+Carl,Male,3-30-1987,5:59 PM,75598,19.289,FALSE,
+Randy,Male,9-27-2000,3:04 AM,89831,13.047,TRUE,
+Marilyn,Female,07-02-1984,4:06 PM,92430,2.924,FALSE,Engineering
+Wayne,Male,09-02-2009,1:37 AM,126956,18.396,FALSE,Human Resources
+Frances,Female,11-12-1996,6:08 PM,112467,1.433,FALSE,Business Development
+Amanda,,08-11-1991,2:15 PM,46665,19.391,TRUE,Client Services
+Kathleen,Female,8-28-2004,10:49 AM,42553,3.756,TRUE,Distribution
+Amanda,Female,1-25-1995,5:06 AM,102081,5.203,FALSE,Sales
+Amanda,,3-16-2010,9:17 AM,135118,15.108,FALSE,Finance
+Shawn,Male,9-29-1987,10:11 PM,71975,9.77,FALSE,Human Resources
+Katherine,Female,8-13-1996,12:21 AM,149908,18.912,FALSE,Finance
+Anna,,3-13-1985,9:19 AM,45418,10.162,FALSE,Marketing
+Elizabeth,Female,2-21-2010,7:02 AM,79145,19.78,FALSE,Finance
+Donald,Male,04-06-1988,10:00 AM,122920,5.32,FALSE,
+Gregory,Male,11-15-1999,5:22 PM,128031,15.857,TRUE,Business Development
+Ruth,Female,2-17-2004,5:38 AM,59969,14.064,TRUE,Finance
+Cynthia,Female,07-05-1986,1:24 AM,35381,11.749,FALSE,Finance
+Deborah,Female,11-21-1985,1:40 PM,113129,17.371,FALSE,Client Services
+Willie,Male,12-05-2009,5:39 AM,141932,1.017,TRUE,Engineering
+Debra,Female,5-28-2006,6:51 AM,42296,16.922,FALSE,Product
+Carl,Male,12-14-1984,8:49 PM,63395,11.411,FALSE,Legal
+Walter,Male,9-24-2007,11:16 PM,125382,13.613,TRUE,Client Services
+Lisa,Female,02-09-1982,6:44 PM,113592,17.108,TRUE,Marketing
+Rebecca,Female,03-05-2000,10:33 AM,46750,11.367,TRUE,Sales
+Jessica,Female,10-19-1986,9:58 PM,90285,13.591,TRUE,Client Services
+Steve,,8-27-2009,3:41 PM,53692,4.785,TRUE,Marketing
+Mary,,12-24-1986,7:02 PM,100341,6.662,FALSE,Distribution
+Craig,Male,8-21-1995,2:38 AM,123876,4.225,FALSE,Engineering
+Katherine,Female,12-19-2000,1:40 AM,41643,4.659,TRUE,Distribution
+Andrea,Female,8-31-1989,11:10 PM,113760,12.866,TRUE,Distribution
+Timothy,Male,10-06-2010,10:49 PM,49473,12.463,FALSE,Legal
+Anthony,Male,2-13-2013,1:35 PM,146141,3.645,TRUE,Distribution
+Harold,,02-04-2004,11:02 AM,79459,7.776,TRUE,Business Development
+Douglas,,02-04-2009,2:03 AM,104496,14.771,TRUE,Marketing
+James,Male,12-05-2001,7:06 AM,67789,17.105,TRUE,Legal
+Joseph,,3-28-1982,1:05 PM,86564,11.879,TRUE,
+Martha,Female,9-14-2001,3:22 AM,135758,14.782,TRUE,Client Services
+Laura,Female,07-12-2000,6:07 PM,84672,3.96,FALSE,Distribution
+Robert,Male,11-05-1982,12:41 PM,111580,10.982,FALSE,Human Resources
+Ralph,Male,3-24-1996,11:54 AM,50455,16.248,FALSE,Business Development
+,Male,8-28-2012,7:56 PM,88733,1.932,,Human Resources
+Diane,Female,10-30-2009,6:56 PM,130577,12.791,FALSE,Marketing
+Annie,Female,06-06-1992,10:04 AM,138925,9.801,TRUE,Marketing
+Jacqueline,Female,9-20-1994,6:07 PM,62371,15.77,TRUE,Client Services
+Brenda,Female,4-17-1984,7:12 AM,87715,2.675,FALSE,Product
+Lori,Female,09-11-2002,7:36 AM,66029,3.345,TRUE,Client Services
+Albert,Male,6-17-1992,3:25 AM,86818,14.301,TRUE,Engineering
+Frank,Male,11-23-2002,6:10 PM,75147,17.398,FALSE,Product
+Deborah,Female,4-23-2000,6:55 PM,105573,5.268,TRUE,Product
+Robin,,12-20-2005,2:42 PM,41230,6.611,TRUE,Distribution
+Alice,Female,1-21-2016,5:07 PM,117787,10.485,FALSE,
+,Male,10-20-1989,9:37 AM,88086,19.387,,Finance
+Paul,,2-18-2011,12:23 PM,91462,18.704,FALSE,Finance
+,Male,12-27-1996,7:07 AM,139959,8.992,,Distribution
+Brian,Male,04-07-2007,10:47 PM,93901,17.821,TRUE,Legal
+Julie,,05-08-1980,6:31 AM,50529,17.263,FALSE,Finance
+Bruce,Male,1-28-2007,11:10 PM,134988,13.926,TRUE,Sales
+Joan,Female,10-02-2007,2:53 AM,120941,3.694,TRUE,Finance
+Harold,Male,5-15-2007,6:37 PM,118753,8.162,FALSE,Sales
+Alice,Female,10-16-1995,9:19 PM,92799,2.782,FALSE,Sales
+Barbara,Female,11-12-2011,12:35 AM,85718,13.326,FALSE,Client Services
+Sarah,Female,04-06-1999,11:17 AM,109517,5.146,FALSE,Human Resources
+Samuel,Male,5-25-2012,4:40 PM,85550,11.593,TRUE,Marketing
+,Male,5-23-1990,2:09 AM,136655,9.801,,Distribution
+Barbara,,08-02-2002,5:13 AM,43312,8.218,TRUE,Legal
+Amy,,5-19-1984,11:47 AM,102839,10.385,TRUE,Distribution
+Frank,Male,03-02-2009,9:15 PM,78891,7.927,TRUE,Distribution
+Robin,,9-16-2005,1:26 AM,93201,11.712,TRUE,Legal
+Debra,Female,3-17-2011,1:12 PM,84693,6.976,TRUE,Finance
+Brandon,,5-31-2004,3:36 PM,73587,9.769,TRUE,Human Resources
+Thomas,Male,09-07-1991,9:51 AM,65251,11.211,FALSE,Distribution
+Harry,Male,9-23-2015,1:36 AM,129148,15.193,TRUE,Engineering
+Todd,Male,07-04-1993,6:53 PM,128175,18.473,TRUE,
+Patricia,Female,03-07-1998,1:10 AM,75825,7.839,FALSE,Engineering
+Steve,Male,01-11-2002,9:17 PM,51821,1.197,TRUE,Legal
+,Male,04-07-1995,4:32 AM,60411,12.048,,Human Resources
+Edward,Male,11-27-1997,1:00 AM,58327,17.095,TRUE,Finance
+Karen,Female,01-09-2014,10:09 PM,46478,16.552,FALSE,Engineering
+Martin,,02-06-2001,4:17 AM,123963,15.745,TRUE,Engineering
+Ann,Female,9-28-1994,5:44 AM,79796,9.851,FALSE,Distribution
+Jonathan,Male,7-30-1984,6:02 PM,83809,12.922,FALSE,Distribution
+Peter,Male,3-22-1982,7:28 AM,77933,13.132,TRUE,Engineering
+Eric,Male,6-15-1993,3:56 AM,51070,13.806,TRUE,Business Development
+Jason,,4-15-1988,8:16 PM,97480,11.518,FALSE,Human Resources
+Terry,Male,10-21-2010,11:18 PM,58357,7.969,FALSE,Engineering
+John,Male,1-29-1999,3:07 AM,67165,13.001,FALSE,Engineering
+Marie,Female,04-08-1983,2:01 PM,145988,18.685,TRUE,Human Resources
+Harold,Male,4-16-2010,5:13 AM,147417,11.626,TRUE,Business Development
+Joshua,Male,6-27-1997,3:23 PM,95003,5.197,TRUE,Marketing
+Brandon,,09-05-1992,2:32 AM,144187,11.416,TRUE,Legal
+Andrea,Female,12-10-2001,6:40 AM,37888,13.47,FALSE,Engineering
+Jeremy,Male,5-19-1991,1:40 PM,131513,1.876,TRUE,Finance
+Daniel,Male,2-29-2016,4:04 AM,77287,13,TRUE,
+Roy,Male,05-10-2004,1:22 PM,46875,12.942,TRUE,Sales
+Dorothy,Female,10-08-2008,12:22 AM,82744,19.111,TRUE,Client Services
+Steven,Male,09-07-1986,12:32 AM,43252,18.892,FALSE,Client Services
+Nicole,Female,4-26-2009,12:40 AM,66047,18.674,TRUE,Marketing
+Ann,Female,7-16-2001,9:27 AM,118431,12.772,TRUE,Finance
+Henry,Male,05-12-1986,2:04 AM,59943,1.432,FALSE,Finance
+,Male,6-17-2009,1:00 PM,136681,3.655,,Business Development
+,Female,12-18-1994,8:42 PM,138807,1.4,,Human Resources
+Barbara,Female,11-26-2002,5:32 AM,82884,6.837,TRUE,Business Development
+Judy,Female,04-05-2011,1:44 AM,48668,11.716,TRUE,Product
+Lawrence,Male,7-23-2011,3:41 AM,122971,14.618,FALSE,Product
+Joseph,Male,10-10-2010,11:12 PM,107050,12.737,FALSE,Business Development
+Carlos,Male,1-25-1981,10:00 AM,138598,14.737,FALSE,Sales
+Russell,,05-09-2009,11:59 AM,149456,3.533,FALSE,Marketing
+Jane,Female,07-10-1999,7:02 PM,128540,15.941,FALSE,Legal
+Martin,Male,2-25-2016,6:29 PM,61117,2.844,FALSE,Client Services
+Steven,Male,5-30-1980,8:25 PM,100949,13.813,TRUE,Human Resources
+Judy,,7-15-2011,3:38 PM,46829,5.19,TRUE,Finance
+James,Male,2-16-2008,2:49 AM,69111,14.625,TRUE,Business Development
+Gloria,Female,8-19-2004,10:31 AM,46602,1.027,TRUE,Business Development
+Ernest,Male,6-30-2001,1:46 PM,61181,16.559,FALSE,Business Development
+Martha,Female,7-17-1997,11:11 PM,94963,19.626,TRUE,Business Development
+Janet,,1-25-1986,5:48 AM,85789,9.712,FALSE,Legal
+Louis,,02-05-1983,6:39 PM,145274,16.379,FALSE,Product
+Tina,Female,08-06-1999,3:18 AM,102841,3.369,FALSE,Client Services
+Henry,Male,2-23-2007,3:24 AM,49665,18.338,FALSE,Business Development
+Antonio,Male,06-06-1999,10:54 PM,41928,5.478,TRUE,
+Lisa,Female,04-11-2007,1:04 AM,128042,2.03,TRUE,Legal
+Denise,Female,2-19-1984,6:22 AM,86150,3.997,FALSE,Client Services
+Stephen,Male,10-21-1984,6:26 AM,121816,10.615,TRUE,Distribution
+Benjamin,Male,04-12-1988,11:32 PM,123409,7.783,FALSE,Product
+Carl,,8-18-2007,8:01 AM,98295,7.617,TRUE,Legal
+Ruth,Female,09-02-1980,6:52 AM,59678,10.895,FALSE,Distribution
+Shawn,Male,12-29-2006,3:05 AM,57871,4.02,TRUE,Human Resources
+Jennifer,Female,3-31-2015,7:43 PM,132084,10.006,TRUE,Engineering
+Terry,Male,11-10-2004,4:33 AM,35633,3.947,TRUE,Distribution
+Jacqueline,Female,7-27-2008,12:08 PM,125298,3.019,TRUE,Legal
+Roger,Male,05-02-1988,10:04 PM,115582,15.343,TRUE,Sales
+Alice,,4-23-1995,6:35 AM,148339,11.479,TRUE,Finance
+Justin,Male,7-25-1991,12:45 AM,112975,9.699,FALSE,Human Resources
+Janet,Female,07-12-2008,12:10 PM,36927,18.769,FALSE,Client Services
+Robin,Female,3-26-2004,5:41 PM,70248,9.66,TRUE,Sales
+Samuel,,10-07-2002,3:08 AM,141305,9.849,TRUE,Marketing
+Katherine,Female,9-22-2006,8:08 PM,72002,13.178,TRUE,Product
+Peter,Male,5-22-1991,1:39 AM,102577,12.026,TRUE,Product
+Lillian,Female,8-14-2009,5:41 AM,113554,18.018,TRUE,Business Development
+,Male,10-24-1986,9:23 AM,47176,10.736,,Finance
+,Female,6-18-2000,7:36 AM,106428,10.867,,
+Rose,Female,11-03-1999,9:06 AM,75181,6.06,TRUE,Finance
+Bobby,Male,9-30-2004,10:52 PM,79047,18.784,FALSE,Human Resources
+Kimberly,Female,4-20-1986,3:55 PM,52970,4.513,FALSE,Sales
+Antonio,Male,12-28-2003,4:17 AM,137979,5.266,FALSE,Distribution
+Doris,Female,09-08-1984,7:03 PM,114360,17.799,TRUE,Business Development
+Steven,Male,07-05-2009,4:55 AM,110306,16.843,TRUE,Human Resources
+Lawrence,Male,07-03-1995,10:55 PM,46378,9.127,FALSE,
+,Male,05-06-1986,4:41 PM,74104,17.68,,Client Services
+,,4-15-1991,3:39 AM,132505,13.592,,Product
+Stephanie,Female,9-14-1982,8:14 AM,96649,3.453,FALSE,Sales
+,Female,7-24-1982,12:00 AM,57811,8.941,,Marketing
+Sandra,Female,09-07-1989,4:17 PM,111468,2.58,TRUE,Product
+Kevin,Male,07-01-2005,3:22 PM,141498,4.135,TRUE,Sales
+Michelle,,3-31-2012,6:28 AM,124441,16.353,FALSE,Business Development
+Lisa,Female,07-08-2000,9:19 PM,40121,6.293,FALSE,Product
+Fred,Male,03-03-1989,2:27 AM,129712,11.058,FALSE,Finance
+Joseph,Male,11-04-1982,9:46 PM,126010,19.601,FALSE,Legal
+Anne,,4-18-1996,11:57 PM,122762,9.564,FALSE,Distribution
+Andrea,Female,7-22-1999,9:25 AM,149105,13.707,TRUE,Distribution
+Nicole,Female,03-01-2004,5:17 PM,44021,10.286,FALSE,
+Theresa,,10-07-1995,10:16 AM,42025,3.319,TRUE,Human Resources
+Catherine,Female,8-31-1986,6:20 PM,59970,12.801,FALSE,Client Services
+Rose,Female,12-31-1982,6:50 PM,145001,19.85,FALSE,Engineering
+Lawrence,Male,10-01-1984,2:06 PM,102589,17.952,TRUE,Marketing
+Raymond,Male,12-12-1986,12:18 PM,47529,2.712,TRUE,Product
+Clarence,Male,08-05-1989,6:11 PM,148941,11.517,FALSE,Product
+Ryan,Male,4-15-1988,5:18 AM,91109,17.499,TRUE,Human Resources
+Jane,Female,01-12-1992,1:23 PM,51923,13.623,FALSE,Business Development
+Lois,Female,7-28-2012,11:39 AM,53954,19.075,FALSE,Product
+Shawn,Male,3-17-2008,2:12 PM,39335,10.664,FALSE,Distribution
+Thomas,Male,05-03-1990,9:29 AM,111371,15.081,TRUE,Engineering
+Kathryn,Female,1-29-2008,12:29 AM,86676,6.081,FALSE,Sales
+Mary,Female,11-06-2011,8:32 AM,115057,2.089,FALSE,Finance
+Julie,Female,03-08-1980,5:13 AM,145357,3.459,FALSE,Engineering
+George,Male,9-27-1995,5:04 PM,36749,19.754,FALSE,Finance
+Ralph,Male,02-10-2000,4:48 PM,89854,7.227,FALSE,Business Development
+Judith,Female,09-03-1989,11:16 AM,134048,6.818,TRUE,Marketing
+,Male,12-13-1994,10:34 AM,141311,5.478,,Product
+Evelyn,Female,02-10-2002,4:44 AM,123621,19.767,TRUE,Marketing
+Rachel,Female,6-23-2011,12:52 AM,54941,3.221,TRUE,Distribution
+Maria,,1-18-1986,8:36 PM,106562,4,FALSE,Human Resources
+Kelly,Female,3-17-2007,6:20 PM,39371,4.068,FALSE,Engineering
+Ruby,Female,5-31-2008,8:41 PM,83112,4.083,FALSE,Marketing
+Ann,Female,10-03-1980,1:08 AM,96941,10.048,TRUE,Distribution
+Kenneth,Male,12-14-1985,6:55 AM,47232,17.862,TRUE,Legal
+William,Male,11-18-1993,12:27 PM,54058,5.182,TRUE,Human Resources
+,Female,12-27-1980,2:27 AM,80399,12.254,,Distribution
+Deborah,Female,2-26-2009,10:17 AM,118043,7.266,TRUE,Business Development
+,Male,11-12-2009,2:30 PM,109411,9.494,,Engineering
+Julia,Female,8-18-2014,3:12 AM,97566,2.147,FALSE,Marketing
+Robert,,12-04-2000,1:20 AM,69267,5.89,TRUE,Sales
+,,08-01-1988,1:35 AM,87103,5.665,,
+Jesse,,7-16-2014,2:24 AM,98811,7.487,FALSE,Legal
+Cynthia,Female,07-12-2006,8:55 AM,149684,7.864,FALSE,Product
+Johnny,Male,1-14-2007,2:54 PM,71383,2.097,TRUE,Human Resources
+Michael,Male,8-31-2002,1:20 AM,81206,19.908,TRUE,Distribution
+Kenneth,Male,1-15-2015,2:41 PM,69112,7.588,TRUE,Finance
+Keith,Male,02-12-2003,3:02 PM,120672,19.467,FALSE,Legal
+Gerald,Male,5-28-2010,12:26 PM,96511,9.331,FALSE,Human Resources
+Carl,,02-11-1982,7:54 AM,49325,2.071,TRUE,Business Development
+Douglas,Male,08-04-2007,5:23 AM,132175,2.28,FALSE,Engineering
+Carolyn,Female,3-17-2004,6:38 AM,118037,13.492,FALSE,Finance
+Joseph,Male,5-23-1985,10:16 PM,139570,15.804,TRUE,Finance
+Billy,Male,04-06-2000,3:14 PM,115280,9.153,FALSE,Distribution
+Joyce,Female,7-25-2001,6:04 AM,51065,16.807,FALSE,Human Resources
+Lillian,Female,8-26-2002,8:53 AM,103854,4.924,TRUE,Distribution
+Ruby,Female,8-13-2006,6:27 PM,48354,19.501,FALSE,Business Development
+Sandra,Female,02-07-1998,12:39 PM,132327,19.264,FALSE,Product
+Louise,Female,2-26-1982,1:03 AM,106362,8.965,FALSE,Sales
+Maria,,6-19-1985,1:48 AM,148857,8.738,FALSE,Legal
+Brenda,Female,01-03-1981,6:01 PM,131131,11.682,FALSE,Client Services
+Stephen,Male,09-10-1990,10:42 PM,129663,15.574,FALSE,Human Resources
+Nicole,,05-02-1981,12:03 PM,41449,4.707,FALSE,Finance
+Bobby,Male,06-05-1984,7:40 AM,93368,2.88,TRUE,Product
+Ernest,Male,09-06-1997,2:02 PM,53335,9.192,FALSE,Product
+Charles,Male,09-03-1997,10:04 AM,148291,6.002,FALSE,
+Bobby,Male,8-19-1996,1:16 AM,147842,16.158,TRUE,
+Diana,Female,11-19-2004,8:47 AM,105066,17.343,TRUE,Business Development
+Mildred,Female,04-06-2007,10:06 PM,139284,11.39,TRUE,
+Harry,Male,02-10-1985,7:46 PM,63046,10.411,FALSE,Finance
+Phillip,,10-20-2003,11:09 AM,89700,2.277,TRUE,
+Bonnie,,1-18-2006,6:52 PM,108946,12.211,FALSE,Finance
+Marie,Female,12-08-1993,6:28 PM,98406,7.943,TRUE,Product
+Sean,Male,4-25-2006,4:51 PM,108581,9.634,FALSE,Human Resources
+Robin,Female,10-01-2012,2:44 AM,41808,19.239,FALSE,Business Development
+Phillip,Male,10-07-1984,11:05 AM,36837,14.66,FALSE,Marketing
+Jerry,Male,3-26-1989,4:15 AM,140850,18.855,FALSE,Finance
+Ronald,Male,5-25-1983,10:05 AM,50426,18.536,TRUE,Sales
+Phillip,Male,5-15-1984,6:15 AM,134120,6.842,FALSE,Human Resources
+Ryan,Male,11-16-2012,1:47 PM,57292,6.01,FALSE,
+Karen,Female,8-29-1997,4:56 PM,80633,16.306,FALSE,Legal
+Bonnie,Female,8-25-2004,2:17 AM,131943,14.249,FALSE,Client Services
+Earl,Male,6-15-2013,3:00 AM,48046,7.737,FALSE,Marketing
+Katherine,Female,8-18-2013,3:58 PM,97443,13.657,FALSE,Product
+Matthew,Male,08-03-1995,5:39 AM,135352,7.986,TRUE,Business Development
+Cynthia,,11-19-1996,10:40 PM,107816,18.751,FALSE,Marketing
+Gerald,Male,3-29-2003,10:37 AM,96329,2.469,TRUE,Engineering
+Brenda,Female,1-18-2015,4:39 PM,73749,19.332,FALSE,Business Development
+Jason,Male,05-01-1998,6:05 PM,75607,4.299,TRUE,Sales
+Melissa,Female,09-08-1994,4:11 AM,98858,3.525,TRUE,Human Resources
+Beverly,Female,04-11-1998,2:27 PM,76485,9.212,TRUE,Engineering
+Terry,,09-11-1992,4:41 PM,41238,8.219,FALSE,Marketing
+,Male,09-05-1980,7:36 AM,114896,13.823,,Client Services
+Jacqueline,Female,5-25-2003,7:13 PM,125418,8.064,FALSE,Distribution
+Amy,Female,5-20-2009,6:26 AM,75415,19.132,FALSE,Client Services
+Robert,,5-25-2007,3:17 AM,90998,8.382,FALSE,Finance
+Ruby,Female,1-28-1980,11:08 PM,142868,6.318,FALSE,Marketing
+Sara,,11-18-2014,2:47 PM,135990,14.344,TRUE,Distribution
+Kathryn,Female,10-27-1995,3:39 PM,57300,18.015,FALSE,Marketing
+Lisa,Female,10-17-2003,1:42 PM,73706,18.53,FALSE,Finance
+Juan,Male,10-06-1993,8:52 AM,85871,9.16,FALSE,Product
+Anthony,Male,1-30-2014,9:04 PM,96795,14.837,FALSE,Sales
+David,Male,12-05-2009,8:48 AM,92242,15.407,FALSE,Legal
+Marilyn,Female,10-08-2007,12:32 AM,115149,11.934,TRUE,Legal
+Margaret,Female,01-04-2001,3:07 AM,126924,1.552,TRUE,Finance
+,Male,11-24-2015,3:11 AM,145329,7.1,,Finance
+Timothy,Male,8-25-1991,10:37 AM,92587,8.475,FALSE,Finance
+Brandon,Male,10-23-1995,12:04 PM,60263,2.709,FALSE,Sales
+Frank,Male,7-27-2013,4:32 PM,91406,5.681,TRUE,Business Development
+Betty,Female,11-19-2002,10:40 AM,37005,7.645,TRUE,Marketing
+Janice,,11-19-1991,6:02 PM,139791,16.968,FALSE,Business Development
+Victor,Male,03-10-2010,5:01 PM,45267,3.942,TRUE,Sales
+Kenneth,,2-28-1994,10:10 AM,95296,10.146,FALSE,Finance
+Jane,Female,4-27-2012,2:12 PM,59680,15.211,TRUE,Business Development
+Walter,Male,5-21-1992,12:39 AM,144701,16.323,TRUE,Marketing
+Christina,Female,6-23-2002,3:18 PM,35477,18.178,FALSE,Human Resources
+Patricia,Female,10-10-1995,4:52 PM,119266,6.911,FALSE,Distribution
+,Male,5-23-2001,7:52 PM,103877,6.322,,Distribution
+Heather,Female,7-29-1983,10:48 AM,47605,14.955,TRUE,Human Resources
+Stephanie,Female,6-26-1988,5:48 AM,136604,6.16,TRUE,Human Resources
+Alice,Female,02-09-2013,12:49 AM,121250,4.363,TRUE,Finance
+Frances,Female,5-16-2014,8:31 AM,35884,17.667,FALSE,Sales
+Elizabeth,Female,7-27-1998,11:12 AM,137144,10.081,FALSE,Finance
+Janice,Female,12-17-2009,6:42 AM,102697,3.283,FALSE,Engineering
+Donald,Male,08-01-1991,2:25 AM,61999,6.466,FALSE,Product
+Melissa,Female,10-22-2002,1:20 AM,45223,8.879,TRUE,Legal
+Carl,Male,07-07-2010,1:33 PM,54033,15.528,TRUE,Business Development
+Joe,Male,12-08-1998,10:28 AM,126120,1.02,FALSE,
+Lois,Female,12-11-2015,4:10 PM,99747,6.168,FALSE,Marketing
+Ann,Female,9-28-2001,6:37 AM,71958,5.272,TRUE,Distribution
+Todd,Male,01-04-1983,12:34 PM,115566,6.716,TRUE,Client Services
+Marilyn,Female,1-16-1996,7:18 AM,118369,7.696,TRUE,Business Development
+Shawn,Male,3-13-2008,5:36 PM,51667,6.339,FALSE,Product
+Ryan,Male,4-27-1999,3:41 AM,85858,19.475,FALSE,Client Services
+Sean,Male,3-21-2009,11:38 AM,131423,8.957,FALSE,Distribution
+Rose,Female,01-02-2002,9:14 PM,49538,9.828,FALSE,Client Services
+George,Male,06-05-2015,5:40 AM,50369,18.9,TRUE,Sales
+Arthur,Male,12-05-2013,8:44 AM,86615,3.412,TRUE,Business Development
+Irene,,2-28-1991,10:23 PM,135369,4.38,FALSE,Business Development
+Deborah,Female,11-11-2003,4:53 PM,60003,9.624,FALSE,Client Services
+,Female,8-23-2000,4:19 PM,95866,19.388,,Sales
+Judith,Female,03-01-2004,7:32 AM,109324,19.488,FALSE,Distribution
+Philip,Male,03-11-2005,10:56 AM,103557,16.014,TRUE,Business Development
+Jeffrey,Male,9-20-1986,6:06 AM,111376,2.673,TRUE,Business Development
+Theresa,Female,4-27-2001,9:17 PM,75661,1.079,TRUE,Legal
+Nancy,Female,09-10-2001,11:57 PM,85213,2.386,TRUE,Marketing
+Harold,Male,6-23-2012,12:40 PM,140444,3.771,FALSE,Distribution
+Bonnie,Female,12-23-2008,9:26 AM,90427,2.01,TRUE,Client Services
+Doris,Female,07-05-1993,5:54 PM,141439,3.799,FALSE,Business Development
+Samuel,Male,08-07-1997,12:40 PM,43694,3.787,TRUE,Engineering
+Alice,Female,3-23-1996,3:09 AM,131952,12.09,FALSE,Engineering
+Maria,Female,3-14-2003,5:23 PM,96250,10.056,FALSE,Business Development
+Aaron,,1-22-1986,7:39 PM,63126,18.424,FALSE,Client Services
+Mark,,09-09-2006,12:27 PM,44836,2.657,FALSE,Client Services
+Ralph,,7-28-1995,6:53 PM,70635,2.147,FALSE,Client Services
+Andrew,Male,9-28-1990,9:38 AM,137386,8.611,TRUE,Distribution
+William,Male,6-26-1997,8:33 AM,104840,15.653,TRUE,Engineering
+Lori,Female,11-20-2015,1:15 PM,75498,6.537,TRUE,Marketing
+Wayne,Male,09-08-2006,11:09 AM,67471,2.728,FALSE,Engineering
+Kenneth,Male,05-10-2006,8:24 AM,101914,1.905,TRUE,Distribution
+Gerald,,4-15-1989,12:44 PM,93712,17.426,TRUE,Distribution
+,Female,9-15-1985,1:50 AM,133472,16.941,,Distribution
+,Male,7-30-2012,3:07 PM,107351,5.329,,Marketing
+Ashley,Female,3-31-2006,1:24 PM,142410,11.048,TRUE,Engineering
+Scott,Male,8-20-2011,8:08 AM,37385,8.226,TRUE,Business Development
+Paula,Female,5-21-1983,11:42 AM,58423,10.833,FALSE,Business Development
+,Female,9-14-2010,5:19 AM,143638,9.662,,
+Teresa,Female,1-22-2013,3:17 PM,113425,11.907,TRUE,Human Resources
+Randy,Male,2-25-2012,5:33 AM,57266,14.077,FALSE,Product
+Joe,Male,1-19-1980,4:06 PM,119667,1.148,TRUE,Finance
+Sarah,Female,8-17-2014,11:08 PM,127118,11.176,FALSE,Legal
+Beverly,Female,10-17-1986,12:51 AM,80838,8.115,FALSE,Engineering
+Jeffrey,Male,02-03-1984,1:26 PM,70990,15.901,TRUE,Sales
+Gloria,Female,10-24-1987,4:43 AM,39833,9.631,FALSE,Engineering
+Albert,Male,9-19-1992,2:35 AM,45094,5.85,TRUE,Business Development
+Stephen,Male,10-29-1989,11:34 PM,93997,18.093,TRUE,Business Development
+Antonio,,6-18-1989,9:37 PM,103050,3.05,FALSE,Legal
+Jonathan,Male,8-21-2013,12:45 AM,121797,16.923,FALSE,Product
+Ann,Female,9-23-1994,11:15 AM,89443,17.94,TRUE,Sales
+Bruce,Male,05-07-1980,8:00 PM,35802,12.391,TRUE,Sales
+Catherine,Female,9-25-1989,1:31 AM,68164,18.393,FALSE,Client Services
+Louis,Male,8-16-2011,5:19 PM,93022,9.146,TRUE,Human Resources
+Thomas,Male,03-12-2016,3:10 PM,105681,19.572,FALSE,Engineering
+Louise,Female,3-27-1995,10:27 PM,43050,11.671,FALSE,Distribution
+Linda,Female,02-04-2010,8:49 PM,44486,17.308,TRUE,Engineering
+Alice,Female,09-03-1988,8:54 PM,63571,15.397,TRUE,Product
+Patrick,Male,12-30-2002,2:01 AM,75423,5.368,TRUE,Business Development
+Victor,,7-28-2006,2:49 PM,76381,11.159,TRUE,Sales
+Russell,Male,05-10-2013,11:08 PM,137359,11.105,FALSE,Business Development
+Harry,Male,8-30-2011,6:31 PM,67656,16.455,TRUE,Client Services
+Susan,Female,04-07-1995,10:05 PM,92436,12.467,FALSE,Sales
+Denise,Female,10-19-1992,5:42 AM,137954,4.195,TRUE,Legal
+Sarah,Female,12-04-1995,9:16 AM,124566,5.949,FALSE,Product
+Sean,Male,1-17-1983,2:23 PM,66146,11.178,FALSE,Human Resources
+Ernest,Male,7-20-2013,6:41 AM,142935,13.198,TRUE,Product
+Kimberly,Female,1-26-2013,12:57 AM,46233,8.862,TRUE,Engineering
+James,Male,1-15-1993,5:19 PM,148985,19.28,FALSE,Legal
+Rose,Female,04-06-1982,10:43 AM,91411,8.639,TRUE,Human Resources
+John,Male,12-23-1982,10:35 PM,146907,11.738,FALSE,Engineering
+Maria,Female,10-15-2011,4:53 PM,43455,13.04,FALSE,Engineering
+Stephen,,07-10-1983,8:10 PM,85668,1.909,FALSE,Legal
+Donna,Female,11-26-1982,7:04 AM,82871,17.999,FALSE,Marketing
+Gloria,Female,12-08-2014,5:08 AM,136709,10.331,TRUE,Finance
+Alice,Female,10-05-2004,9:34 AM,47638,11.209,FALSE,Human Resources
+Justin,,02-10-1991,4:58 PM,38344,3.794,FALSE,Legal
+Robin,Female,7-24-1987,1:35 PM,100765,10.982,TRUE,Client Services
+Rose,Female,8-25-2002,5:12 AM,134505,11.051,TRUE,Marketing
+Anthony,Male,10-16-2011,8:35 AM,112769,11.625,TRUE,Finance
+Tina,Female,5-15-1997,3:53 PM,56450,19.04,TRUE,Engineering
+George,Male,6-21-2013,5:47 PM,98874,4.479,TRUE,Marketing
+Henry,,11-23-2014,6:09 AM,132483,16.655,FALSE,Distribution
+Phillip,Male,1-31-1984,6:30 AM,42392,19.675,FALSE,Finance
+Russell,Male,5-20-2013,12:39 PM,96914,1.421,FALSE,Product
+Larry,Male,4-20-2013,4:45 PM,60500,11.985,FALSE,Business Development
+Albert,Male,5-15-2012,6:24 PM,129949,10.169,TRUE,Sales

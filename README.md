@@ -5,23 +5,34 @@ Welcome to the All Semester Labs repository for the Information Technology Engin
 ## 📚 Subjects Covered:
 
 ### Semester 3:
+
 - **Data Structure and Analysis**
 - **SQL**
 - **Java**
 
 ### Semester 4:
+
 - **Python**
 - **Microprocessor**
 - **Unix**
 - **Network**
 
 ### Semester 5:
+
 - **Internet Programming Lab**
 - **Security Lab**
 - **DevOps Lab**
 - **Advance Devops Lab**
 
+### Semester 6:
+
+- **AIDS Lab**
+- **Web Lab**
+- **BI Lab**
+- **MAD PWA Lab**
+
 ## 📂 Directory Structure:
+
 - **Semester/**
   - Each semester folder contains its unique README file with detailed information and directory structure.
 
