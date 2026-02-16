@@ -35,6 +35,11 @@ This repository contains lab materials, code samples, and documentation for all 
 - SADL Lab
 - AIDS2 Lab
 
+### Semester 8
+- Cloud Computing Lab
+- Blockchain Lab
+
+
 ## Directory Structure
 
 ```
